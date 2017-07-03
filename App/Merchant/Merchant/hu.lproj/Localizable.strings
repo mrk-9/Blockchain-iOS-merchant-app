@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Mégse";
+
+/* No comment provided by engineer. */
+"action.add" = "Add hozzá";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Mégse";
+
+/* No comment provided by engineer. */
+"action.charge" = "Ingyenesen";
+
+/* (No Commment) */
+"action.enter_amount" = "Összeg megadása";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Cikk beállítása";
+
+/* No comment provided by engineer. */
+"action.save" = "Mentés";
+
+/* No comment provided by engineer. */
+"action.search" = "Szálláshelyek keresése";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Kategória";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Pénznem";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Cikk rendezési sorrend";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Hiányzik a neve.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Cikk megköveteli egy nevet.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Hiányzó ár";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Cikk megköveteli egy ár.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Érvénytelen ár";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Ár-érték 0-nál nagyobbnak kell lennie.";
+
+/* No comment provided by engineer. */
+"alert.ok" = "oké";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Pénznem";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Alap URL-címe";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Debug";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Kereskedő URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Reset";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Tranzakció URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "A WebSocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "NINCS ADAT";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Hoppá";
+
+/* No comment provided by engineer. */
+"general.done" = "Kész";
+
+/* No comment provided by engineer. */
+"general.save" = "Mentett";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Egyéni összeg";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Nincsenek elemek";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu cikk)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu elem)";
+
+/* (No Commment) */
+"locations" = "Cafe/inni/enni/kiad";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "E-mail nem támogatott";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Ez az eszköz nem támogatja egy e-mailt.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Hiba az E-mail küldése.  Kérjük, ellenőrizze az e-mail, és újra elküldeni.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "szia";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Érvénytelen E-mail";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Adjon meg egy érvényes e-mail címet.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Itt van a %@, a %@, a %@ a visszaigazolást.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Nyugta az %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Köszönjük, hogy segítségével a kereskedő Blockchain!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Cikk beállítása";
+
+/* (No Commment) */
+"navigation.login" = "Bejelentkezés";
+
+/* (No Commment) */
+"navigation.logout" = "Kijelentkezés";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Ár & Hírek";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Beállítások";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Tranzakciók";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Találkoztunk egy hálózati probléma.  Kérjük, próbálja meg újra.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Hálózati hiba";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Kereskedő Post hiba";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Adja meg az új PIN-kód";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Adjuk meg a jelszót";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Helytelen PIN-kód";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Írja be újra a jelszót";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Jelszót az ellenőrzés nem sikerült";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "PIN-kód visszaállítása";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Forgáspont beállítása";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "A kért %@, kapott %@ BTC. QR kép megváltozott esedékes összeget tükrözi.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Elégtelen fizetési";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Kapott összeg (%@ BTC) nagyobb, mint a kért összeg (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Túlfizetett tranzakció";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Megy beállítások és kamera-hozzáférés engedélyezése a kereskedő Blockchain.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Kamera-hozzáférés engedélyezése";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Várakozás a fizetésre";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Kategória";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Város";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Üzleti cím";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Irányítószám";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Pénznem";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Leírás";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Hiba történt a kérelem során. Kérjük, próbálkozzon később.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Hiba";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Ellenőrizni fogjuk, mellett a kereskedő könyvtárba.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "kösz!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Könyvtárlista";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Megy az adatvédelmi beállításokat, és engedélyezi a helyszolgáltatása az Blockchain kereskedő.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Elhelyezkedés szolgáltatások mozgáskorlátozottak";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Megkeresése";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Legyen szíves megpróbál újra";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Hiba megállapítás helyének";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Könyvtárlista megköveteli, hogy egy üzleti neve, címe, város, irányítószám, telefon, web url, és egy leírást.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Hiányzó információ";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Cégneve";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "A telefonszám van nem elismert mint egy számot.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Érvénytelen telefonszám";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "ABC";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Hozzáadási dátum";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Nemrégiben hozzáadott tranzakció";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Cikk rendezési sorrend";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telefon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "A megadott cím érvénytelen.";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Érvénytelen honlapján";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Cím";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Honlap";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "próbáld újra";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Cégneve";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Pénznem";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "PIN-kód visszaállítása";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Forgáspont beállítása";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Pénztárca cím";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Cégneve, érvényes pénztárca cím, és a pénznem szükség.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "perc";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "másodperc";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ napja";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Aktuális hely";
+
+/* (No Commment) */
+"welcome.hi" = "szia!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Menjünk!";
+
+/* (No Commment) */
+"welcome.setup" = "Érintse meg a gombot, hogy állítsa be a kereskedői számla!";
+

@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"action.add" = "添加";
+
+/* No comment provided by engineer. */
+"action.cancel" = "取消";
+
+/* No comment provided by engineer. */
+"action.charge" = "收費";
+
+/* (No Commment) */
+"action.enter_amount" = "輸入金額";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "專案設置";
+
+/* No comment provided by engineer. */
+"action.save" = "保存";
+
+/* No comment provided by engineer. */
+"action.search" = "搜索";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "類別";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "貨幣";
+
+/* (No Commment) */
+"action_picker.sort_order" = "專案排序次序";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "缺少名稱";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "專案需要一個名稱。";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "缺少價格";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "專案要求的價格。";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "不正確價位";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "價格值必須大於 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "還行";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "貨幣";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "基 URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "調試";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "商人的 URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "重置";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "交易記錄的 URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "哎呀";
+
+/* No comment provided by engineer. */
+"general.done" = "完成";
+
+/* No comment provided by engineer. */
+"general.save" = "保存";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "自訂金額";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "沒有專案";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu 專案)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu 專案)";
+
+/* (No Commment) */
+"locations" = "咖啡廳/喝/吃/花";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "電子郵件不支援";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "此設備不支援發送一封電子郵件。";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "發送電子郵件時出錯。 請檢查您的電子郵件並再次發送。";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "你好";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "不正確電子郵件";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "請輸入一個有效的電子郵件地址。";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "這裡是您的收據為你在 %@ 的 %@ %@。";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "收到 %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "感謝您使用 Blockchain 商人!";
+
+/* (No Commment) */
+"navigation.item_setup" = "專案設置";
+
+/* (No Commment) */
+"navigation.login" = "登錄";
+
+/* (No Commment) */
+"navigation.logout" = "登出";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "價格 & 新聞";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "設置";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "交易";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "我們遇到了網路問題。 請再試一次。";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "網路錯誤";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "商人的開機自檢故障";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "輸入新密碼";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "輸入您的密碼";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "密碼不正確";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "重新輸入您的密碼";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "密碼驗證失敗";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "重置 Pin";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "固定的銷";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "%@ 請求，接收 %@ BTC。QR 圖像已被更改，以反映到期金額。";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "支付不足";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "收到的金額 (%@ BTC) 大於請求的數額 (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "多付的款項的交易";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "有關詳細資訊，請轉到設置和啟用相機訪問 Blockchain 商人。";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "啟用相機訪問";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "等待付款";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "類別";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "商業城市";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "營業位址";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "業務郵編";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "貨幣";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "描述";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "您的請求時出錯。請稍後再試。";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "錯誤";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "我們會檢討你加入到我們商人的目錄。";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "謝謝你 ！";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "目錄清單";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "轉到您的隱私設置並啟用 Blockchain 商人的位置服務。";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "位置服務殘疾人";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "定位";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "請再試一次";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "錯誤查找位置";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "目錄清單要求您提供企業名稱、 位址、 城市、 郵編、 電話、 web url 和描述。";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "缺少的資訊";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "業務名稱";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "電話號碼不被公認的數目。";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "不正確電話號碼";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "按字母順序排列";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "加入日期";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "最近添加到交易記錄";
+
+/* (No Commment) */
+"setting.sort_order.title" = "專案排序次序";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "電話";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "輸入的位址不是有效";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "不正確網站";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "位址";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "網站";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "再試一次";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "業務名稱";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "貨幣";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "重置 Pin";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "固定的銷";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "錢包位址";
+
+/* No comment provided by engineer. */
+"signup.warning" = "企業名稱、 有效的錢包位址和貨幣的要求。";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "分鐘";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "秒";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ 前";
+
+/* No comment provided by engineer. */
+"user_current_location" = "使用當前的位置";
+
+/* (No Commment) */
+"welcome.hi" = "你好！";
+
+/* (No Commment) */
+"welcome.lets_go" = "讓我們去吧!";
+
+/* (No Commment) */
+"welcome.setup" = "點擊按鈕來設置你的商人帳戶!";
+

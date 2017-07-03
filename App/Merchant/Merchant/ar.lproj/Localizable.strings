@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "إلغاء الأمر";
+
+/* No comment provided by engineer. */
+"action.add" = "إضافة";
+
+/* No comment provided by engineer. */
+"action.cancel" = "إلغاء الأمر";
+
+/* No comment provided by engineer. */
+"action.charge" = "رسوم";
+
+/* (No Commment) */
+"action.enter_amount" = "أدخل المبلغ";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "إعداد الصنف";
+
+/* No comment provided by engineer. */
+"action.save" = "حفظ";
+
+/* No comment provided by engineer. */
+"action.search" = "البحث عن";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "الفئة";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "تحويل العملات";
+
+/* (No Commment) */
+"action_picker.sort_order" = "ترتيب فرز العناصر";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "اسم مفقود";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "ويتطلب البند اسماً.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "الأسعار مفقود";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "البند يتطلب ثمناً.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "الأسعار غير صحيحة";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "يجب أن تكون قيمة سعر أكبر من 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "موافق";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "تحويل العملات";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "محدد موقع المعلومات الأساسي";
+
+/* No comment provided by engineer. */
+"debug.debug" = "التصحيح";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "رابط التاجر";
+
+/* No comment provided by engineer. */
+"debug.reset" = "إعادة تعيين";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "عنوان الحركة";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "رابط ويبسوكيت";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "عفوا";
+
+/* No comment provided by engineer. */
+"general.done" = "عمله";
+
+/* No comment provided by engineer. */
+"general.save" = "حفظ";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "المبلغ المخصص";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "لا توجد عناصر";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(البند%lu)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(مواد%lu)";
+
+/* (No Commment) */
+"locations" = "مقهى/الشراب/أكل/قضاء";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "البريد الإلكتروني غير معتمد";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "لا يدعم هذا الجهاز بإرسال بريد إلكتروني.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "حدث خطأ أثناء إرسال البريد الإلكتروني.  الرجاء التحقق من البريد الإلكتروني الخاص بك، وإرسال مرة أخرى.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "مرحبا";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "بريد إلكتروني غير صالح";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "الرجاء إدخال عنوان بريد إلكتروني صالح.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "هنا هو إيصال الخاص بك لجهاز %@ في %@ في %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "استلام من %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "شكرا لاستخدام التاجر بلوكتشين!";
+
+/* (No Commment) */
+"navigation.item_setup" = "إعداد الصنف";
+
+/* (No Commment) */
+"navigation.login" = "تسجيل الدخول";
+
+/* (No Commment) */
+"navigation.logout" = "تسجيل الخروج";
+
+/* (No Commment) */
+"navigation.pos" = "نقاط البيع";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "الأسعار وأخبار";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "إعدادات";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "المعاملات";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "واجهنا مشكلة شبكات.  الرجاء المحاولة مرة أخرى.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "خطأ في شبكة الاتصال";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "فشل وظيفة التاجر";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "أدخل رمز مرور جديد";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "أدخل رمز المرور الخاص بك";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "رمز غير صحيحة";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "أعد إدخال رمز المرور الخاص بك";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "فشل التحقق من صحة رمز المرور";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "إعادة تعيين رقم Pin";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "تعيين رقم التعريف الشخصي";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "وطلب %@، %@ تلقي BTC. تم تغيير صورة ريال قطري ليعكس المبلغ المستحق.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "الدفع غير كافية";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "المبلغ المستلم (%@ BTC) أكبر من الكمية المطلوبة (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "حركة زائدة";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "انتقل إلى إعدادات وتمكين الوصول للكاميرا للتاجر بلوكتشين.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "تمكين الوصول إلى الكاميرا";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "انتظار الدفع";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "الفئة";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "مدينة العمل";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "عنوان العمل";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "الرمز البريدي الأعمال";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "تحويل العملات";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "الوصف";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "حدث خطأ أثناء الطلب الخاص بك. الرجاء المحاولة مرة أخرى لاحقاً.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "خطأ";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "سوف نستعرض لك لإضافة إلى أعمالنا دليل التاجر.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "شكرا!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "سرد الدليل";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "انتقل إلى \"إعدادات الخصوصية\" الخاصة بك، وتمكين خدمات الموقع للتاجر بلوكتشين.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "موقع لخدمات المعوقين";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "تحديد موقع";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "الرجاء المحاولة مرة أخرى";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "خطأ في البحث عن موقع";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "سرد الدليل يتطلب منك توفير اسم المؤسسة والعنوان والمدينة، الرمز البريدي، هاتف، محدد موقع معلومات ويب ووصفاً.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "المعلومات المفقودة";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "اسم الشركة";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "لم يتم التعرف رقم الهاتف كرقم.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "رقم الهاتف غير صحيح";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "أبجدي";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "تاريخ الإضافة";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "وأضاف مؤخرا للحركة";
+
+/* (No Commment) */
+"setting.sort_order.title" = "ترتيب فرز العناصر";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "الهاتف";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "عنوان الذي تم إدخاله غير صحيح";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "موقع صالح";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "عنوان";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "موقع على شبكة الإنترنت";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "حاول مرة أخرى";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "اسم الشركة";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "تحويل العملات";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "إعادة تعيين رقم Pin";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "تعيين رقم التعريف الشخصي";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "عنوان المحفظة";
+
+/* No comment provided by engineer. */
+"signup.warning" = "اسم الشركة وعنوان صالح المحفظة والعملة المطلوبة.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "دقيقة";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "ثانية";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%@ %.0f قبل";
+
+/* No comment provided by engineer. */
+"user_current_location" = "استخدام الموقع الحالي";
+
+/* (No Commment) */
+"welcome.hi" = "مرحبا!";
+
+/* (No Commment) */
+"welcome.lets_go" = "يتيح الذهاب!";
+
+/* (No Commment) */
+"welcome.setup" = "اضغط على زر إنشاء حساب التاجر الخاص بك!";
+

@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Payment Received"; ObjectID = "C3g-Hh-d50"; */
+"C3g-Hh-d50.text" = "お支払いの受信";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "NGO-RL-oxV"; */
+"NGO-RL-oxV.placeholder" = "電子メール";
+
+/* Class = "UIButton"; normalTitle = "No thanks"; ObjectID = "NHx-Ag-mjp"; */
+"NHx-Ag-mjp.normalTitle" = "遠慮します";
+
+/* Class = "UIButton"; normalTitle = "Email receipt"; ObjectID = "lTz-cT-k2p"; */
+"lTz-cT-k2p.normalTitle" = "メール受信";
+

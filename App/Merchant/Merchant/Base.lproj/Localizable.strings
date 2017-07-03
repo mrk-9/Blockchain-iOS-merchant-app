@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  Merchant
+
+  Created by User on 10/23/14.
+  Copyright (c) 2014 com. All rights reserved.
+*/
+
+// Generics
+
+"alert.ok" = "OK";
+"action.save" = "Save";
+"action.cancel" = "Cancel";
+
+
+"general.NA" = "N/A";
+"general.Oops" = "Oops";
+"general.save" = "Saved";
+"general.done" = "Done";
+
+// Networking
+"network.problem.title" = "Network Error";
+"network.problem.detail" = "We encountered a networking issue.  Please try again.";
+
+// Transaction Detail
+"transaction.detail.seconds" = "seconds";
+"transaction.detail.minutes" = "minutes";
+"transaction.detail.time.ago" = "%.0f %@ ago";
+
+// QR Code Scanning
+"qr.scanning.permission.title" = "Enable Camera Access";
+"qr.scanning.permission.detail" = "Go to Settings and Enable Camera Access for Blockchain Merchant.";
+
+// Sign Up
+"signup.alert.title" = "Try again";
+"signup.warning" = "Business Name, Valid Wallet Address, and Currency are required.";
+"signup.business.name" = "Business Name";
+"signup.wallet.name" = "Wallet Address";
+"signup.currency.name" = "Currency";
+"signup.pin.set" = "Set Pin";
+"signup.pin.reset" = "Reset Pin";
+
+// Currency Picker
+"currency.picker.title" = "Currency";
+
+// Navigation
+"navigation.pos" = "POS";
+"navigation.item_setup" = "Item Setup";
+"navigation.transactions" = "Transactions";
+"navigation.settings" = "Settings";
+"navigation.price_news" = "Price & News";
+"navigation.logout" = "Logout";
+"navigation.login" = "LogIn";
+
+// Add Item
+"addItem.error.missing.name" = "Missing Name";
+"addItem.error.missing.name.detail" = "Item requires a name.";
+"addItem.error.missing.price" = "Missing Price";
+"addItem.error.missing.price.detail" = "Item requires a price.";
+"addItem.error.zero.price" = "Invalid Price";
+"addItem.error.zero.price.detail" = "Price value must be greater than 0";
+
+// POS
+"item.list.noitems" = "No Items";
+"item.list.custom" = "Custom Amount";
+"item.list.number_of_item" = "(%lu item)";
+"item.list.number_of_items" = "(%lu items)";
+
+// Transaction
+"qr.trasnasction.info.waiting" = "Waiting For Payment";
+
+// Pin Entry
+"Cancel" = "Cancel";
+"pin.entry.enter_passcode" = "Enter your passcode";
+"pin.entry.enter_new_passcode" = "Enter new passcode";
+"pin.entry.re_enter_passcode" = "Re-enter your passcode";
+"pin.entry.validation_failed" = "Passcode Validation Failed";
+"pin.entry.password_incorrect" = "Passcode Incorrect";
+"pin.info.reset_pin" = "Reset Pin";
+"pin.info.set_pin" = "Set Pin";
+
+// Merchant Email
+"merchant.email.hi" = "Hi";
+"merchant.email.receiptInfo" = "Here is your receipt for your %@ at %@ on %@.";
+"merchant.email.thanks" = "Thanks for using Blockchain Merchant!";
+"merchant.email.subject" = "Receipt from %@";
+"merchant.email.error_not_supported" = "Email Not Supported";
+"merchant.email.error_not_supported_detail" = "This device does not support sending an email.";
+"merchant.email.error_sending_message" = "Error sending Email.  Please check your email and send again.";
+
+"merchant.email.invalid" = "Invalid Email";
+"merchant.email.invalid.detail" = "Please enter a valid email address.";
+
+// Currency
+"action_picker.currency" = "Currency";
+
+// Settings
+"setting.name.title" = "Business Name";
+"setting.business_address.title" = "Business Address";
+"setting.business_address.city" = "Business City";
+"setting.business_address.zipcode" = "Business Zipcode";
+"setting.business_address.category" = "Category";
+"setting.sort_order.title" = "Item Sort Order";
+"setting.telephone.title" = "Telephone";
+"setting.description.title" = "Description";
+"setting.website.title" = "Website";
+"setting.currency.title" = "Currency";
+"setting.wallet_address.title" = "Address";
+"setting.directory_listing.title" = "Directory Listing";
+
+"setting.sort_order.creation.title" = "Date Added";
+"setting.sort_order.recent.title" = "Recently Added To Transaction";
+"setting.sort_order.alphabetical.title" = "Alphabetical";
+
+"setting.location_services.trouble_finding.title" = "Error Finding Location";
+"setting.location_services.trouble_finding.detail" = "Please try again";
+
+"setting.location_services.disabled.title" = "Location Services Disabled";
+"setting.location_services.disabled.detail" = "Go to your Privacy Settings and enable location services for Blockchain Merchant.";
+"setting.location_services.locating" = "Locating";
+
+"action_picker.categories" = "Category";
+"action_picker.sort_order" = "Item Sort Order";
+
+// Settings Errors
+"setting.phone_validation_error.title" = "Invalid Phone Number";
+"setting.phone_validation_error.detail" = "The phone number is not recognized as a number.";
+"setting.url_validation_error.title" = "Invalid Website";
+"setting.url_validation_error.detail" = "The address entered is not valid";
+
+"setting.merchant_listing.value_error.title" = "Missing Information";
+"setting.merchant_listing.value_error.detail" = "Directory listing requires you to provide a business name, address, city, zipcode, telephone, web url, and a description.";
+
+// Errors
+"networking.post_merchant.fail" = "Merchant Post Failure";
+
+

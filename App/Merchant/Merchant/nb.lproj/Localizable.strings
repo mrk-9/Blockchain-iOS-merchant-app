@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"action.add" = "Legge til";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"action.charge" = "Gratis";
+
+/* (No Commment) */
+"action.enter_amount" = "Angi beløp";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Oppsett";
+
+/* No comment provided by engineer. */
+"action.save" = "Lagre";
+
+/* No comment provided by engineer. */
+"action.search" = "Søk";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Kategori";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Valuta";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Elementet sorteringsrekkefølge";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Manglende navn";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Elementet krever et navn.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Mangler pris";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Elementet krever en pris.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Ugyldig pris";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Pris verdi må være større enn 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "ok";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Basiswebadressen";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Feilsøke";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Kjøpmann URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Tilbakestille";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Transaksjonen URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "WebSocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "I/T";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Oops";
+
+/* No comment provided by engineer. */
+"general.done" = "Gjort";
+
+/* No comment provided by engineer. */
+"general.save" = "Lagret";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Egendefinerte beløp";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Ingen elementer";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu element)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu elementer)";
+
+/* (No Commment) */
+"locations" = "Cafe/drikke/spise/bruker";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "E ikke støttes";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Denne enheten støtter ikke sende en epost.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Feil sende e-post.  Sjekk din email og sende på nytt.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "hei";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Ugyldig e-post";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Skriv inn en gyldig epostadresse.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Her er din kvittering for din %@ på %@ på %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Kvittering fra %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Takk for hjelp Blockchain kjøpmann!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Oppsett";
+
+/* (No Commment) */
+"navigation.login" = "Logg inn";
+
+/* (No Commment) */
+"navigation.logout" = "Logg";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Pris og nyheter";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Innstillinger";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transaksjoner";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Vi møtte en nettverk problem.  Prøv på nytt.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Nettverksfeil";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Kjøpmann Post feil";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Angi nytt passord";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Angi passordet ditt";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Passord feil";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Angi passordet ditt på nytt";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Passord validering mislyktes";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Tilbakestille PIN-koden";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Angi aksel";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Forespurte %@, mottatte %@ BTC. QR bildet har blitt endret for å gjenspeile beløpet.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Utilstrekkelig betaling";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Beløpet mottatt (%@ BTC) større enn beløp (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Overbetalte transaksjonen";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Gå til innstillinger og Aktiver kameraet tilgang for Blockchain kjøpmann.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Aktivere kameraet tilgang";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Venter på betaling";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Kategori";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Business byen";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Adresse, arbeid";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Forretning Postnr";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Beskrivelse";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Det oppstod en feil under forespørsel. Prøv igjen senere.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Feil";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Vi vil vurdere du for tillegg til vår kjøpmannen katalog.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "takk!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Adresseliste katalogiserer";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Gå til personverninnstillingene og aktiverer posisjonstjenestene for Blockchain kjøpmann.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Plassering tjenester deaktivert";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Finne";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Prøv på nytt";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Feil finne sted";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Katalogoppføring må du oppgi et firmanavn, adresse, by, postnummer, telefon, URL-adresse og en beskrivelse.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Manglende informasjon";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Firmanavn";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Telefonnummeret er ikke anerkjent som et tall.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Ugyldig telefonnummer";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Alfabetisk";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Dato lagt til";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Nylig lagt til transaksjonen";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Elementet sorteringsrekkefølge";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telefon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Adressen skrev inn er ikke gyldig";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Ugyldig nettsted";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Adresse";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Nettsted";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "prøv igjen";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Firmanavn";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Valuta";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Tilbakestille PIN-koden";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Angi aksel";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Lommebok adresse";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Firmanavn og gyldig lommebok adresse valuta kreves.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minutter";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "sekunder";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ siden";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Bruk gjeldende plassering";
+
+/* (No Commment) */
+"welcome.hi" = "hei!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Slipper!";
+
+/* (No Commment) */
+"welcome.setup" = "Trykk på knappen for å opprette en kjøpmann konto!";
+

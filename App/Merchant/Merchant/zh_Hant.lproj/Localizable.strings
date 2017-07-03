@@ -1,0 +1,216 @@
+/* 
+  Localizable.strings
+  Merchant
+  Created by User on 10/23/14.
+  Copyright (c) 2014 com. All rights reserved.
+*/
+// Generics
+"alert.ok" = "還行";
+
+"action.save" = "保存";
+
+"action.cancel" = "取消";
+
+"general.NA" = "N/A";
+
+"general.Oops" = "哎呀";
+
+"general.save" = "保存";
+
+"general.done" = "做";
+
+// Networking
+"network.problem.title" = "網路錯誤";
+
+"network.problem.detail" = "我們遇到了一個網路問題。請再試一次。";
+
+// Transaction Detail
+"transaction.detail.seconds" = "秒";
+
+"transaction.detail.minutes" = "分鐘";
+
+"transaction.detail.time.ago" = "%.0f %@ 前";
+
+// QR Code Scanning
+"qr.scanning.permission.title" = "啟用相機的訪問";
+
+"qr.scanning.permission.detail" = "有關詳細資訊，請轉到設置和啟用相機訪問 Blockchain 的商人。";
+
+// Sign Up
+"signup.alert.title" = "再試一次";
+
+"signup.warning" = "業務名稱、 有效的錢包位址和貨幣的要求。";
+
+"signup.business.name" = "業務名稱";
+
+"signup.wallet.name" = "錢包位址";
+
+"signup.currency.name" = "貨幣";
+
+"signup.pin.set" = "固定的銷";
+
+"signup.pin.reset" = "重置 Pin";
+
+// Currency Picker
+"currency.picker.title" = "貨幣";
+
+// Navigation
+"navigation.pos" = "POS";
+
+"navigation.item_setup" = "專案設置";
+
+"navigation.transactions" = "交易記錄";
+
+"navigation.settings" = "設置";
+
+"navigation.price_news" = "價格： & 新聞";
+
+"navigation.logout" = "登出";
+
+"navigation.login" = "登錄";
+
+// Add Item
+"addItem.error.missing.name" = "缺少名稱";
+
+"addItem.error.missing.name.detail" = "專案需要一個名稱。";
+
+"addItem.error.missing.price" = "缺少價格";
+
+"addItem.error.missing.price.detail" = "專案要求的價格。";
+
+"addItem.error.zero.price" = "不正確價位";
+
+"addItem.error.zero.price.detail" = "價格值必須大於 0";
+
+// POS
+"item.list.noitems" = "沒有專案";
+
+"item.list.custom" = "自訂";
+
+"item.list.number_of_item" = "（%lu 專案）";
+
+"item.list.number_of_items" = "（%lu 專案）";
+
+// Transaction
+"qr.trasnasction.info.waiting" = "等待付款";
+
+// Pin Entry
+"Cancel" = "取消";
+
+"pin.entry.enter_passcode" = "輸入您的密碼";
+
+"pin.entry.enter_new_passcode" = "輸入新密碼";
+
+"pin.entry.re_enter_passcode" = "重新輸入您的密碼";
+
+"pin.entry.validation_failed" = "密碼驗證失敗";
+
+"pin.entry.password_incorrect" = "密碼不正確";
+
+"pin.info.reset_pin" = "重置 Pin";
+
+"pin.info.set_pin" = "固定的銷";
+
+// Merchant Email
+"merchant.email.hi" = "你好";
+
+"merchant.email.receiptInfo" = "這裡是您的收據為你在 %@ 的 %@ %@。";
+
+"merchant.email.thanks" = "感謝您使用 Blockchain 商人 ！";
+
+"merchant.email.subject" = "收到 %@";
+
+"merchant.email.error_not_supported" = "電子郵件不受支援";
+
+"merchant.email.error_not_supported_detail" = "此設備不支援發送一封電子郵件。";
+
+"merchant.email.error_sending_message" = "發送電子郵件時出錯。請檢查您的電子郵件並再次發送。";
+
+"merchant.email.invalid" = "不正確電子郵件";
+
+"merchant.email.invalid.detail" = "請輸入一個有效的電子郵件地址。";
+
+// Currency
+"action_picker.currency" = "貨幣";
+
+// Settings
+"setting.name.title" = "業務名稱";
+
+"setting.business_address.title" = "業務位址";
+
+"setting.business_address.city" = "商業城市";
+
+"setting.business_address.zipcode" = "業務郵編";
+
+"setting.business_address.category" = "類別";
+
+"setting.sort_order.title" = "專案排序次序";
+
+"setting.telephone.title" = "電話";
+
+"setting.description.title" = "描述";
+
+"setting.website.title" = "網站";
+
+"setting.currency.title" = "貨幣";
+
+"setting.wallet_address.title" = "位址";
+
+"setting.directory_listing.title" = "目錄清單";
+
+"setting.sort_order.creation.title" = "加入日期";
+
+"setting.sort_order.recent.title" = "最近添加到交易記錄";
+
+"setting.sort_order.alphabetical.title" = "按字母順序排列";
+
+"setting.location_services.trouble_finding.title" = "錯誤查找位置";
+
+"setting.location_services.trouble_finding.detail" = "請再試一次";
+
+"setting.location_services.disabled.title" = "位置服務殘疾人";
+
+"setting.location_services.disabled.detail" = "轉到您的隱私設置並啟用 Blockchain 商人的位置服務。";
+
+"setting.location_services.locating" = "定位";
+
+"action_picker.categories" = "類別";
+
+"action_picker.sort_order" = "專案排序次序";
+
+// Settings Errors
+"setting.phone_validation_error.title" = "不正確電話號碼";
+
+"setting.phone_validation_error.detail" = "電話號碼不被公認的數目。";
+
+"setting.url_validation_error.title" = "不正確網站";
+
+"setting.url_validation_error.detail" = "輸入的位址無效";
+
+"setting.merchant_listing.value_error.title" = "缺少的資訊";
+
+"setting.merchant_listing.value_error.detail" = "目錄清單要求您提供企業名稱、 位址、 城市、 郵編、 電話、 web url 和描述。";
+
+// Errors
+"networking.post_merchant.fail" = "商人開機自檢故障";
+
+"action.charge" = "電荷";
+
+"action.search" = "搜索";
+
+"action.add" = "添加";
+
+"action.item_setup" = "專案設置";
+
+"action.enter_amount" = "輸入金額";
+
+"user_current_location" = "使用當前的位置";
+
+"locations" = "咖啡/飲料/吃/花";
+
+"welcome.hi" = "你好！";
+
+"welcome.setup" = "點擊按鈕來設置你的商人帳戶 ！";
+
+"welcome.lets_go" = "讓我們去 ！";
+

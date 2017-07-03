@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Batal";
+
+/* No comment provided by engineer. */
+"action.add" = "Tambahkan";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Batal";
+
+/* No comment provided by engineer. */
+"action.charge" = "Biaya";
+
+/* (No Commment) */
+"action.enter_amount" = "Masukkan jumlah";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Pengaturan item";
+
+/* No comment provided by engineer. */
+"action.save" = "Simpan";
+
+/* No comment provided by engineer. */
+"action.search" = "Cari";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Kategori";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Mata uang";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Urutan item";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Nama hilang";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Item membutuhkan nama.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Harga hilang";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Item membutuhkan harga.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Harga tidak valid";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Nilai harga harus lebih besar dari 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "Oke";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Mata uang";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Base URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Debug";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Pedagang URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Reset";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Transaksi URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "WebSocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "UPS";
+
+/* No comment provided by engineer. */
+"general.done" = "Dilakukan";
+
+/* No comment provided by engineer. */
+"general.save" = "Disimpan";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Jumlah kustom";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Tidak ada item";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu item)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu item)";
+
+/* (No Commment) */
+"locations" = "Cafe/minum/makan/menghabiskan";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "Email yang tidak didukung";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Perangkat ini tidak mendukung mengirimkan email.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Kesalahan pengiriman Email.  Silakan periksa email Anda dan kirimkan lagi.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Hai";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Email tidak valid";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Harap masukkan alamat email yang valid.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Berikut adalah tanda terima untuk Anda %@ di %@ di %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Penerimaan dari %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Terima kasih untuk menggunakan Blockchain pedagang!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Pengaturan item";
+
+/* (No Commment) */
+"navigation.login" = "LogIn";
+
+/* (No Commment) */
+"navigation.logout" = "Logout";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Harga & Berita";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Pengaturan";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transaksi";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Kami mengalami masalah jaringan.  Silakan coba lagi.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Kesalahan jaringan";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Pedagang posting kegagalan";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Masukkan kode akses baru";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Masukkan kode akses";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Kode akses yang salah";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Memasukkan kode akses";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Kode validasi gagal";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Membuat ulang Pin";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Set Pin";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Meminta %@, menerima %@ BTC. QR gambar telah diubah untuk mencerminkan jumlah jatuh tempo.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Pembayaran tidak mencukupi";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Jumlah diterima (%@ BTC) lebih besar dari jumlah yang diminta (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Kelebihan pembayaran transaksi";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Pergi ke pengaturan dan memungkinkan kamera akses untuk pedagang Blockchain.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Mengaktifkan kamera akses";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Menunggu pembayaran";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Kategori";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Bisnis kota";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Alamat bisnis";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Kodepos bisnis";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Mata uang";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Deskripsi";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Kesalahan terjadi selama permintaan Anda. Harap coba lagi nanti.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Kesalahan";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Kami akan meninjau Anda untuk penambahan ke direktori pedagang kami.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "Terima kasih!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Listing direktori";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Pergi ke pengaturan privasi Anda dan mengaktifkan layanan lokasi untuk Blockchain Merchant.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Lokasi Layanan Cacat";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Mencari";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Silakan coba lagi";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Kesalahan menemukan lokasi";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Daftar direktori mengharuskan Anda untuk memberikan nama bisnis, alamat, kota, kode pos, telepon, web url dan deskripsi.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Informasi yang hilang";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Nama bisnis";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Nomor telepon tidak diakui sebagai angka.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Nomor telepon yang valid";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Abjad";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Tanggal ditambahkan";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Baru saja ditambahkan ke transaksi";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Urutan item";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telepon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Alamat yang dimasukkan ini tidak valid";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Website tidak valid";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Alamat";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Situs web";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "Coba lagi";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Nama bisnis";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Mata uang";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Membuat ulang Pin";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Set Pin";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Alamat dompet";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Nama Bisnis, dompet alamat yang Valid, dan mata uang yang diperlukan.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "menit";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "detik";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ yang lalu";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Gunakan saat ini lokasi";
+
+/* (No Commment) */
+"welcome.hi" = "Hai!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Mari kita pergi!";
+
+/* (No Commment) */
+"welcome.setup" = "Ketuk tombol untuk mengatur merchant account!";
+

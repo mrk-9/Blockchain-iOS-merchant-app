@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"action.add" = "เพิ่ม";
+
+/* No comment provided by engineer. */
+"action.cancel" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"action.charge" = "ค่าธรรมเนียม";
+
+/* (No Commment) */
+"action.enter_amount" = "ป้อนยอดเงิน";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "การตั้งค่าสินค้า";
+
+/* No comment provided by engineer. */
+"action.save" = "บันทึก";
+
+/* No comment provided by engineer. */
+"action.search" = "ค้นหา";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "ประเภท";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "สกุลเงิน";
+
+/* (No Commment) */
+"action_picker.sort_order" = "ลำดับการจัดเรียงสินค้า";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "ไม่มีชื่อ";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "สินค้าต้องการชื่อ";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "ราคาหายไป";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "สินค้าต้องมีราคา";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "ราคาไม่ถูกต้อง";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "ราคาค่าต้องมากกว่า 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "ตกลง, ได้";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "สกุลเงิน";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "เยี่ยมชม";
+
+/* No comment provided by engineer. */
+"debug.debug" = "ตรวจแก้จุดบกพร่อง";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "URL ของร้านค้า";
+
+/* No comment provided by engineer. */
+"debug.reset" = "รีเซ็ต";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "URL ของธุรกรรม";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "อุ่ย";
+
+/* No comment provided by engineer. */
+"general.done" = "เสร็จแล้ว";
+
+/* No comment provided by engineer. */
+"general.save" = "บันทึก";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "ยอดเงินที่กำหนดเอง";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "ไม่มีรายการ";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu รายการ)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(สินค้า%lu)";
+
+/* (No Commment) */
+"locations" = "คาเฟ่/เครื่องดื่ม/กิน/ใช้";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "อีเมล์ที่ไม่สนับสนุน";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "อุปกรณ์นี้ไม่สนับสนุนการส่งอีเมล์";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "ข้อผิดพลาดในการส่งอีเมล์  กรุณาตรวจสอบอีเมล์ของคุณ และส่งอีกครั้ง";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "สวัสดี";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "อีเมล์ไม่ถูกต้อง";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "กรุณาระบุ e-mail ที่ถูกต้อง";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "นี่คือใบรับสำหรับของคุณ %@ ที่ %@ บน %@";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "รับจาก %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "ขอบคุณสำหรับการใช้ร้านค้า Blockchain";
+
+/* (No Commment) */
+"navigation.item_setup" = "การตั้งค่าสินค้า";
+
+/* (No Commment) */
+"navigation.login" = "เข้าสู่ระบบ";
+
+/* (No Commment) */
+"navigation.logout" = "ออกจากระบบ";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "ราคา & ข่าว";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "การตั้งค่า";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "ธุรกรรม";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "เราพบปัญหาเครือข่าย  กรุณาลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "ข้อผิดพลาดเครือข่าย";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "ความล้มเหลวในการลงรายการบัญชีผู้ขาย";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "ป้อนรหัสผ่านใหม่";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "ป้อนรหัสผ่านของคุณ";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "รหัสผ่านไม่ถูกต้อง";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "ใส่รหัสผ่านของคุณอีกครั้ง";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "ตรวจสอบรหัสผ่านล้มเหลว";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Pin ใหม่";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "ตั้งค่า Pin";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "ขอ %@, %@ ได้รับบีทีซี รูป QR มีการเปลี่ยนแปลงเพื่อแสดงการชำระเงิน";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "ชำระเงินไม่เพียงพอ";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "จำนวนที่ได้รับ (%@ BTC) มากกว่ายอดเงินที่ร้องขอ (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "ธุรกรรมแทน";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "ไปตั้งค่าการเข้าถึงกล้องเปิดใช้งานร้านค้า Blockchain";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "เปิดใช้งานการเข้าถึงกล้อง";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "รอการชำระเงิน";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "ประเภท";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "เมืองธุรกิจ";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "ธุรกิจที่อยู่";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "รหัสไปรษณีย์ธุรกิจ";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "สกุลเงิน";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "คำอธิบาย";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "เกิดข้อผิดพลาดในระหว่างการร้องขอ โปรดลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "ข้อผิดพลาด";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "เราจะทบทวนคุณสำหรับไดเรกทอรีร้านค้าของเรา";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "ขอบคุณ";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "รายไดเรกทอรี";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "ไปตั้งค่าความเป็นส่วนตัวของคุณ และเปิดใช้งานบริการสถานที่สำหรับร้านค้า Blockchain";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "สถานบริการถูกปิดใช้งาน";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "ค้นหา";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "โปรดลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "ตำแหน่งค้นหาข้อผิดพลาด";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "ไดเรกทอรีรายการต้องให้คุณให้ชื่อธุรกิจ ที่อยู่ เมือง รหัสไปรษณีย์ โทรศัพท์ url เว็บ และคำอธิบาย";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "ข้อมูลที่หายไป";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "ชื่อธุรกิจ";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "ไม่มีการรับรู้หมายเลขโทรศัพท์เป็นตัวเลข";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "หมายเลขโทรศัพท์ไม่ถูกต้อง";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "ตัวอักษร";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "เพิ่มเมื่อวัน";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "เพิ่ง เพิ่มธุรกรรม";
+
+/* (No Commment) */
+"setting.sort_order.title" = "ลำดับการจัดเรียงสินค้า";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "โทรศัพท์";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "อยู่ที่ป้อนไม่ถูกต้อง";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "เว็บไซต์ไม่ถูกต้อง";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "ที่อยู่";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "เว็บไซต์";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "ลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "ชื่อธุรกิจ";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "สกุลเงิน";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Pin ใหม่";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "ตั้งค่า Pin";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "กระเป๋าสตางค์อยู่";
+
+/* No comment provided by engineer. */
+"signup.warning" = "ชื่อธุรกิจ กระเป๋าสตางค์ที่ อยู่ที่ถูกต้อง และสกุลเงินจำเป็น";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "นาที";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "วินาที";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%@ %.0f ที่ผ่านมา";
+
+/* No comment provided by engineer. */
+"user_current_location" = "ใช้ตำแหน่งที่ตั้งปัจจุบัน";
+
+/* (No Commment) */
+"welcome.hi" = "สวัสดี";
+
+/* (No Commment) */
+"welcome.lets_go" = "ช่วยให้ไป";
+
+/* (No Commment) */
+"welcome.setup" = "เคาะปุ่มการตั้งค่าบัญชีของคุณค้า";
+

@@ -1,0 +1,39 @@
+//
+//  Merchant.pch
+//  Merchant
+//
+//  Created by User on 10/23/14.
+//  Copyright (c) 2014 com. All rights reserved.
+//
+
+#ifndef Merchant_PrefixHeader_pch
+#define Merchant_PrefixHeader_pch
+
+#import "BCMConstants.h"
+
+#import "CoreData+MagicalRecord.h"
+
+#define BCM_BLUE @"1b8ac7"
+
+#define USER_DEFAULTS_KEY_BASE_URL @"baseURL"
+#define USER_DEFAULTS_KEY_MERCHANT_DIRECTORY_URL @"merchantDirectoryURL"
+#define USER_DEFAULTS_KEY_TRANSACTION_URL @"transactionURL"
+#define USER_DEFAULTS_KEY_WEB_SOCKET_URL @"webSocketURL"
+
+#define DEFAULT_BASE_URL @"https://blockchain.info"
+#define DEFAULT_MERCHANT_DIRECTORY_URL @"https://api.blockchain.info/merchant"
+
+/*
+previously used debug URL: @"http://service-merchant-dir.dev.blockchain.co.uk";
+*/
+
+#define DEFAULT_TRANSACTION_URL @"https://blockchain.info/tx"
+#define DEFAULT_TRANSACTION_RESULT_URL_HASH_ARGUMENT_ADDRESS_ARGUMENT @"https://blockchain.info/q/txresult/%@/%@"
+#define DEFAULT_WEB_SOCKET_URL @"wss://ws.blockchain.info/inv"
+
+#define BASE_URL [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_BASE_URL] == nil ? DEFAULT_BASE_URL : [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_BASE_URL]
+#define MERCHANT_DIRECTORY_URL [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_MERCHANT_DIRECTORY_URL] == nil ? DEFAULT_MERCHANT_DIRECTORY_URL : [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_MERCHANT_DIRECTORY_URL]
+#define TRANSACTION_URL [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_TRANSACTION_URL] == nil ? DEFAULT_TRANSACTION_URL : [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_TRANSACTION_URL]
+#define WEB_SOCKET_URL [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_WEB_SOCKET_URL] == nil ? DEFAULT_WEB_SOCKET_URL : [[NSUserDefaults standardUserDefaults] objectForKey:USER_DEFAULTS_KEY_WEB_SOCKET_URL]
+
+#endif

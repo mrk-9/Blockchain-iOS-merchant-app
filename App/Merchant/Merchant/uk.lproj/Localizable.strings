@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "\"Скасувати\"";
+
+/* No comment provided by engineer. */
+"action.add" = "Додати";
+
+/* No comment provided by engineer. */
+"action.cancel" = "\"Скасувати\"";
+
+/* No comment provided by engineer. */
+"action.charge" = "Заряду";
+
+/* (No Commment) */
+"action.enter_amount" = "Введіть суму";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Елемент інсталяції";
+
+/* No comment provided by engineer. */
+"action.save" = "Зберегти";
+
+/* No comment provided by engineer. */
+"action.search" = "Пошук";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Категорія";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Валюти";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Порядок сортування елементів";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Відсутнє ім'я";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Елемент потрібне ім'я.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Відсутні ціну";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Елемент вимагає за ціною.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Неприпустима Ціна";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Ціна значення має бути більшим за 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "Гаразд";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Валюти";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Основна URL-адреса";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Налагодження";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Купець URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Скидання";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Транзакції URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "WebSocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Oops";
+
+/* No comment provided by engineer. */
+"general.done" = "Зроблено";
+
+/* No comment provided by engineer. */
+"general.save" = "Збережені";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Користувальницькі суми";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Немає елементів";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu елемент)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu пунктів)";
+
+/* (No Commment) */
+"locations" = "Кафе/напої/з'їсти/витратити";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "Електронною поштою не підтримується";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Цей пристрій не підтримує адресою електронної пошти.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Помилка під час надсилання електронної пошти.  Перевірте вашу електронну пошту й надіслати ще раз.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Привіт";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Недійсна адреса електронної пошти";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Будь ласка, введіть електронну адресу.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Ось квитанції для %@ на %@ на %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Надходжень від %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Дякуємо за допомогою Blockchain купець!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Елемент інсталяції";
+
+/* (No Commment) */
+"navigation.login" = "Логін";
+
+/* (No Commment) */
+"navigation.logout" = "Вихід із системи";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Ціна & Новини";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Параметри";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Угоди";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Ми зустріли мереж питання.  Будь ласка, спробуйте ще раз.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Мережна помилка";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Торговий пост провал";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Введіть новий пароль";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Введіть ваш пароль";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Неправильний пароль";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Повторно введіть пароль";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Помилка верифікації ввести пароль";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Скинути PIN-код";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Встановити PIN-код";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Запитаний %@, отриманих %@ БТД. QR зображення була змінена, щоб відобразити сума, належна.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Недостатня оплата";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Суми отримали (%@ БТД) більше, ніж сума, що запитується (%@ БТД)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Переплати транзакції";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Перейти до налаштування і дозволити камери доступ для Blockchain купця.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Зробити доступними камери";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Чекаючи платежу";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Категорія";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Бізнес-Сіті";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Бізнес-адреса";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Бізнес поштовий індекс";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Валюти";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Опис";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Під час вашого запиту сталася помилка. Будь ласка, спробуйте ще раз пізніше.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Помилка";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Ми розглянемо ви для додавання до наших торгових каталогів.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "Дякую!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Створювати список файлів каталогу";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Перейти до налаштування конфіденційності та ввімкнення служби локації для Blockchain купця.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Розташування послуги інвалідам";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Розміщення";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Будь ласка, спробуйте ще раз";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Помилка місце знаходження";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Створювати список файлів каталогу, необхідно забезпечити бізнес ім'я, адресу, місто, поштовий індекс, телефон, веб-ресурсу та опис.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Відсутні відомості";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Фірмове найменування";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Номер телефону не розпізнається як число.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Неприпустимий номер";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "За алфавітом";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Дата додавання";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Нещодавно додано до транзакції";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Порядок сортування елементів";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Телефон";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Введені адреси немає у";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Неприпустимий веб-сайт";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Адреса";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Веб-сайт";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "Спробуй ще раз";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Фірмове найменування";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Валюти";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Скинути PIN-код";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Встановити PIN-код";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Адреса гаманець";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Назву компанії, адресу гаманець і валюти не потрібно.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "хвилин";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "секунд";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ тому";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Використовувати поточне розташування";
+
+/* (No Commment) */
+"welcome.hi" = "Привіт!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Відпускає!";
+
+/* (No Commment) */
+"welcome.setup" = "Натисніть кнопку налаштувати ваш торговий рахунок!";
+

@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Payment Received"; ObjectID = "C3g-Hh-d50"; */
+"C3g-Hh-d50.text" = "प्राप्त भुगतान";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "NGO-RL-oxV"; */
+"NGO-RL-oxV.placeholder" = "ईमेल";
+
+/* Class = "UIButton"; normalTitle = "No thanks"; ObjectID = "NHx-Ag-mjp"; */
+"NHx-Ag-mjp.normalTitle" = "नहीं धन्यवाद";
+
+/* Class = "UIButton"; normalTitle = "Email receipt"; ObjectID = "lTz-cT-k2p"; */
+"lTz-cT-k2p.normalTitle" = "ईमेल रसीद";
+

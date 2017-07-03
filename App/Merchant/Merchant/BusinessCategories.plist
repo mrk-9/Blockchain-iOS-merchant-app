@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<string>Cafe</string>
+	<key>2</key>
+	<string>Drink (bars, pubs, clubs, etc)</string>
+	<key>3</key>
+	<string>Eat (restaurant, deli, food trucks, etc)</string>
+	<key>4</key>
+	<string>Spend (general, etc)</string>
+	<key>5</key>
+	<string>Bitcoin ATM</string>
+</dict>
+</plist>

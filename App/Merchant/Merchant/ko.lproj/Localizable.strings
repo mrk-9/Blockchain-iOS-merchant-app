@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "취소";
+
+/* No comment provided by engineer. */
+"action.add" = "추가";
+
+/* No comment provided by engineer. */
+"action.cancel" = "취소";
+
+/* No comment provided by engineer. */
+"action.charge" = "충전";
+
+/* (No Commment) */
+"action.enter_amount" = "금액을 입력";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "항목 설정";
+
+/* No comment provided by engineer. */
+"action.save" = "저장";
+
+/* No comment provided by engineer. */
+"action.search" = "검색";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "카테고리";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "통화";
+
+/* (No Commment) */
+"action_picker.sort_order" = "항목 정렬 순서";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "누락 된 이름";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "항목 이름이 필요합니다.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "누락 된 가격";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "항목 가격을 요구 한다.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "잘못 된 가격";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "가격 값은 0 보다 커야 합니다.";
+
+/* No comment provided by engineer. */
+"alert.ok" = "괜찮았던 것";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "통화";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "기본 URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "디버그";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "가맹점 URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "리셋";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "트랜잭션 URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "죄송 합니다";
+
+/* No comment provided by engineer. */
+"general.done" = "완료";
+
+/* No comment provided by engineer. */
+"general.save" = "저장";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "사용자 지정 금액";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "항목 없음";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu 항목)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu 항목)";
+
+/* (No Commment) */
+"locations" = "카페/음료/식사/지출";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "지원 되지 않는 이메일";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "이 장치는 이메일을 보내는 지원 하지 않습니다.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "이메일을 전송 하는 중 오류가 발생 했습니다.  귀하의 이메일을 확인 하 고 다시 보내기.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "안녕";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "잘못 된 이메일";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "유효한 이메일 주소를 입력 하십시오.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "여기에 %@에 %@에 %@에 대 한 영수증이입니다.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "%@에서 영수증";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Blockchain 상인을 사용 하 여 주셔서 감사!";
+
+/* (No Commment) */
+"navigation.item_setup" = "항목 설정";
+
+/* (No Commment) */
+"navigation.login" = "로그인";
+
+/* (No Commment) */
+"navigation.logout" = "로그 아웃";
+
+/* (No Commment) */
+"navigation.pos" = "포스";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "가격 및 뉴스";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "설정";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "거래";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "우리는 네트워킹 문제 발생.  다시 시도 하십시오.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "네트워크 오류";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "가맹점 게시 실패";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "새 암호 코드 입력";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "당신의 암호 입력";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "잘못 된 암호";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "당신의 암호를 다시 입력";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "암호 유효성 검사 실패";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "리셋 핀";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Set 핀";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "요청 받은 %@ BTC %@. QR 이미지 금액을 반영 하도록 변경 되었습니다.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "부족 한 지불";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "받은 금액 (BTC%@) 금액 요청 (BTC %@) 보다 큰";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "과 거래";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Blockchain 상인에 대 한 설정 및 사용 카메라 액세스로 이동 합니다.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "카메라 액세스를 사용 하도록 설정";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "지불에 대 한 대기";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "카테고리";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "사업 시";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "비즈니스 주소";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "비즈니스 우편 번호";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "통화";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "설명";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "요청 하는 동안 오류가 발생 했습니다. 나중에 다시 시도 하십시오.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "오류";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "우리 또한 우리의 상인 디렉토리에 당신을 검토할 것입니다.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "감사!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "디렉토리 목록";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "개인 정보 설정을 이동한 Blockchain 상인에 대 한 위치 서비스를 활성화 합니다.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "위치 서비스 사용 안 함";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "찾기";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "다시 시도 하십시오";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "오류 발견 위치";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "디렉터리 목록에서는 회사 이름, 주소, 도시, 우편 번호, 전화, 웹 url 및 설명을 제공 해야 합니다.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "누락 된 정보";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "비즈니스 이름";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "전화 번호는 숫자로 인식 되지 않습니다.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "잘못 된 전화 번호";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "알파벳";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "날짜 추가 됨";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "최근 거래에 추가";
+
+/* (No Commment) */
+"setting.sort_order.title" = "항목 정렬 순서";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "전화";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "입력 한 주소는 유효 하지 않습니다.";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "잘못 된 웹사이트";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "주소";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "웹사이트";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "다시 시도";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "비즈니스 이름";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "통화";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "리셋 핀";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Set 핀";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "지갑 주소";
+
+/* No comment provided by engineer. */
+"signup.warning" = "회사 이름, 유효한 지갑 주소, 통화가 됩니다.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "분";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "초";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "전 %.0f %@";
+
+/* No comment provided by engineer. */
+"user_current_location" = "현재 위치를 사용 하 여";
+
+/* (No Commment) */
+"welcome.hi" = "안녕!";
+
+/* (No Commment) */
+"welcome.lets_go" = "갈 수 있습니다!";
+
+/* (No Commment) */
+"welcome.setup" = "상인 계정 설정 버튼을 누릅니다!";
+

@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "रद्द करें";
+
+/* No comment provided by engineer. */
+"action.add" = "जोड़ें";
+
+/* No comment provided by engineer. */
+"action.cancel" = "रद्द करें";
+
+/* No comment provided by engineer. */
+"action.charge" = "लिए ठहरना";
+
+/* (No Commment) */
+"action.enter_amount" = "राशि दर्ज करें";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "आइटम सेटअप";
+
+/* No comment provided by engineer. */
+"action.save" = "सहेजें";
+
+/* No comment provided by engineer. */
+"action.search" = "खोज";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "श्रेणी";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "मुद्रा";
+
+/* (No Commment) */
+"action_picker.sort_order" = "आइटम सॉर्ट क्रम";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "नाम गुम";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "आइटम एक नाम की आवश्यकता है।";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "गुम मूल्य";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "आइटम एक मूल्य की आवश्यकता है।";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "अमान्य मूल्य";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "मूल्य मान 0 से अधिक होना चाहिए";
+
+/* No comment provided by engineer. */
+"alert.ok" = "ठीक है";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "मुद्रा";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "आधार URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "डीबग करें";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "व्यापारी URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "रीसेट करें";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "लेन-देन URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "उफ़";
+
+/* No comment provided by engineer. */
+"general.done" = "किया";
+
+/* No comment provided by engineer. */
+"general.save" = "सहेजा गया";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "कस्टम राशि";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "कोई आइटम नहीं";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu आइटम)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu आइटम)";
+
+/* (No Commment) */
+"locations" = "कैफे/पियो/खाओ/खर्च";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "ईमेल समर्थित नहीं";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "यह डिवाइस एक ईमेल भेज रहा समर्थन नहीं करता।";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "ईमेल भेजने में त्रुटि।  कृपया अपने ईमेल की जाँच करें और पुन: भेजें।";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "नमस्ते";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "अमान्य ईमेल";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "कृपया एक मान्य ईमेल पता दर्ज करें।";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "यहाँ %@ पर %@ में अपने %@ के लिए आपकी रसीद है।";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "%@ से रसीद";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Blockchain व्यापारी का उपयोग करने के लिए धन्यवाद!";
+
+/* (No Commment) */
+"navigation.item_setup" = "आइटम सेटअप";
+
+/* (No Commment) */
+"navigation.login" = "लॉगिन";
+
+/* (No Commment) */
+"navigation.logout" = "लॉग आउट";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "मूल्य & समाचार";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "सेटिंग्स";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "लेन-देन";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "हम एक नेटवर्किंग समस्या का सामना करना पड़ा।  कृपया पुन: प्रयास करें।";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "नेटवर्क त्रुटि";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "व्यापारी पोस्ट विफलता";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "नया पासकोड दर्ज करें";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "अपना पासकोड दर्ज करें";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "पासकोड ग़लत";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "पुन: अपना पासकोड दर्ज करें";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "पासकोड सत्यापन विफल रहा";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "पिन रीसेट करें";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "सेट पिन";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "%@, प्राप्ति %@ बीटीसी का अनुरोध किया। QR छवि देय राशि को प्रतिबिंबित करने के लिए बदल दिया गया है।";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "अपर्याप्त भुगतान";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "प्राप्त राशि (%@ बीटीसी) अनुरोध की गई राशि से (%@ बीटीसी) अधिक";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Overpaid हस्तांतरण";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Blockchain व्यापारी के लिए सेटिंग्स और सक्षम करें कैमरा का उपयोग करने के लिए जाओ।";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "कैमरा तक पहुँच सक्षम करें";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "भुगतान के लिए इंतजार कर";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "श्रेणी";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "व्यापार सिटी";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "व्यवसाय पता";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "व्यापार ज़िपकोड";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "मुद्रा";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "विवरण";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "आपके अनुरोध के दौरान कोई त्रुटि उत्पन्न हुई। कृपया बाद में पुन: प्रयास करें।";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "त्रुटि";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "हम आप के लिए इसके अलावा करने के लिए हमारे व्यापारी निर्देशिका की समीक्षा करेंगे।";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "धन्यवाद!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "निर्देशिका लिस्टिंग";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "अपनी गोपनीयता सेटिंग्स पर जाएँ और स्थान सेवाओं Blockchain व्यापारी के लिए सक्षम करें।";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "सेवाहरूको स्थान विकलांगों";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "ढूँढ रहा है";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "कृपया पुन: प्रयास करें";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "त्रुटि ढूँढना स्थान";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "निर्देशिका लिस्टिंग आप एक व्यवसाय के नाम, पता, शहर, ज़िपकोड, टेलीफोन, वेब url और वर्णन प्रदान करने की आवश्यकता है।";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "अनुपलब्ध जानकारी";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "व्यवसाय का नाम";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "फ़ोन नंबर एक संख्या के रूप में मान्यता प्राप्त नहीं है।";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "अमान्य फ़ोन नंबर";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "वर्णमाला क्रम में";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "तिथि जोड़ी गई";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "हाल ही में लेनदेन करने के लिए जोड़ा गया";
+
+/* (No Commment) */
+"setting.sort_order.title" = "आइटम सॉर्ट क्रम";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "टेलीफोन";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "दर्ज किया गया पता मान्य नहीं है";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "अमान्य वेबसाइट";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "पते";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "वेबसाइट";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "फिर कोशिश करो";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "व्यवसाय का नाम";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "मुद्रा";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "पिन रीसेट करें";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "सेट पिन";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "बटुआ पते";
+
+/* No comment provided by engineer. */
+"signup.warning" = "व्यवसाय का नाम, मान्य बटुआ पते और मुद्रा आवश्यक हैं।";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "मिनट";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "सेकंड";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ पहले";
+
+/* No comment provided by engineer. */
+"user_current_location" = "वर्तमान स्थान का उपयोग करें";
+
+/* (No Commment) */
+"welcome.hi" = "नमस्ते!";
+
+/* (No Commment) */
+"welcome.lets_go" = "जाने देता है!";
+
+/* (No Commment) */
+"welcome.setup" = "अपने व्यापारी खाता सेट करने के लिए बटन ठोकर!";
+

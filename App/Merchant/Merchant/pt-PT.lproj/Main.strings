@@ -1,0 +1,87 @@
+/* Class = "UITextField"; placeholder = "Item Name"; ObjectID = "2Tb-n2-tNM"; */
+"2Tb-n2-tNM.placeholder" = "Nome do artigo";
+
+/* Class = "UITextField"; placeholder = "Item Price"; ObjectID = "9R0-vE-WPd"; */
+"9R0-vE-WPd.placeholder" = "Preço do artigo";
+
+/* Class = "UIButton"; normalTitle = "Clear All"; ObjectID = "BvD-Vj-YP1"; */
+"BvD-Vj-YP1.normalTitle" = "Apagar tudo";
+
+/* Class = "UIButton"; normalTitle = "Clear All"; ObjectID = "EC2-by-uJT"; */
+"EC2-by-uJT.normalTitle" = "Apagar tudo";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "EGg-8c-rrd"; */
+"EGg-8c-rrd.normalTitle" = "Feito";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "IMg-ZA-IQl"; */
+"IMg-ZA-IQl.text" = "Título";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "J7j-l4-56P"; */
+"J7j-l4-56P.text" = "Detalhe";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "M0x-8a-gpe"; */
+"M0x-8a-gpe.normalTitle" = "Feito";
+
+/* Class = "UILabel"; text = "Use Current Location"; ObjectID = "NVP-jd-Mc6"; */
+"NVP-jd-Mc6.text" = "Use o local atual";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YJ4-k0-wvh"; */
+"YJ4-k0-wvh.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZLa-81-EYJ"; */
+"ZLa-81-EYJ.text" = "Rótulo";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "aFb-ca-USu"; */
+"aFb-ca-USu.normalTitle" = "Adicionar";
+
+/* Class = "UIButton"; normalTitle = "Charge"; ObjectID = "aeU-mE-dLF"; */
+"aeU-mE-dLF.normalTitle" = "Carga";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "alT-7M-2vB"; */
+"alT-7M-2vB.title" = "Cancelar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bBa-VH-ZHx"; */
+"bBa-VH-ZHx.text" = "Rótulo";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "cQe-R6-hla"; */
+"cQe-R6-hla.text" = "Detalhe";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "cY2-l4-68O"; */
+"cY2-l4-68O.title" = "Configurações";
+
+/* Class = "UINavigationItem"; title = "Add Item"; ObjectID = "dUN-GR-uaC"; */
+"dUN-GR-uaC.title" = "Adicionar Item";
+
+/* Class = "UINavigationItem"; title = "Item Setup"; ObjectID = "fHS-82-RgR"; */
+"fHS-82-RgR.title" = "Item de configuração";
+
+/* Class = "UILabel"; text = "Enter Pin"; ObjectID = "fOa-WA-mam"; */
+"fOa-WA-mam.text" = "Digite o Pin";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "hiS-86-7et"; */
+"hiS-86-7et.normalTitle" = "Cancelar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hz2-jH-T9X"; */
+"hz2-jH-T9X.text" = "Rótulo";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "kDk-Zv-3dU"; */
+"kDk-Zv-3dU.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ks2-AS-M7j"; */
+"ks2-AS-M7j.text" = "Título";
+
+/* Class = "UINavigationItem"; title = "Transactions"; ObjectID = "md7-Xd-thV"; */
+"md7-Xd-thV.title" = "Transações";
+
+/* Class = "UILabel"; text = "30 seconds ago"; ObjectID = "ok3-oC-Yh1"; */
+"ok3-oC-Yh1.text" = "Há 30 segundos";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "p15-9T-TQh"; */
+"p15-9T-TQh.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "0 BTC"; ObjectID = "rO9-Mi-F4d"; */
+"rO9-Mi-F4d.text" = "0 BTC";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "vKq-5i-XnY"; */
+"vKq-5i-XnY.normalTitle" = "Cancelar";
+

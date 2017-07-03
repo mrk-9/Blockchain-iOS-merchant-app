@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "Waiting For Payment"; ObjectID = "YEv-LD-cab"; */
+"YEv-LD-cab.text" = "Odottaa maksu";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "a6z-Wb-N2K"; */
+"a6z-Wb-N2K.normalTitle" = "Peruuta";
+

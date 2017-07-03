@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Odustani";
+
+/* No comment provided by engineer. */
+"action.add" = "Dodati";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Odustani";
+
+/* No comment provided by engineer. */
+"action.charge" = "Glavni";
+
+/* (No Commment) */
+"action.enter_amount" = "Unesite iznos";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Stavku postavljanje";
+
+/* No comment provided by engineer. */
+"action.save" = "Spremi";
+
+/* No comment provided by engineer. */
+"action.search" = "Pretraživanje";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Kategorija";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Valuta";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Redoslijed sortiranja stavki";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Nedostaje naziv";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Artikl zahtijeva naziv.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Nedostaje cijena";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Artikl zahtijeva cijena.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Cijena nije valjana";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Cijena vrijednost mora biti veća od 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "ok";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Osnovni URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Ispravljanje pogrešaka";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Trgovac URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Vrati izvorno";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Transakcije URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "UPS";
+
+/* No comment provided by engineer. */
+"general.done" = "Učinio";
+
+/* No comment provided by engineer. */
+"general.save" = "Spasio";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Prilagođeni iznos";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Nema stavki";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu točka)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu predmeta)";
+
+/* (No Commment) */
+"locations" = "Caffe bar/piti/jesti/provesti";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "E-pošte ne podržava";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Ovaj uređaj ne podržava slanje e-pošte.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Pogreška u slanju e-pošte.  Ček tvoj elektronička pošta i poslati ponovo.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Bok";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Neispravno elektronička pošta";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Molimo unesite važeću e-mail adresu.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Evo računa za %@ u %@ na %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Potvrde iz %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Hvala što koristite Blockchain trgovac!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Stavku postavljanje";
+
+/* (No Commment) */
+"navigation.login" = "Prijava";
+
+/* (No Commment) */
+"navigation.logout" = "Odjava";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Cijene & Novosti";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Postavke";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transakcije";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Smo susreli mreža problem.  Molimo pokušajte ponovo.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Mrežna pogreška";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Trgovac Post neuspjeh";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Unesite novi pristupni kôd";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Unesite svoj pristupni kôd";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Zaporka neispravna";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Ponovo unesite lozinku";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Pristupni kôd provjera valjanosti nije uspjela";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Ponovno postavljanje Pin";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Postavi Pin";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Tražena %@, primljene %@ BTC. QR slika je Chanel to saviti iznosa.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Dovoljno da plati";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Primljeni iznos (%@ BTC) veći iznos koji se traži (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Preplaćeni transakcije";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Idite na postavke i omogući pristup fotoaparatu za Blockchain trgovac.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Omogućiti pristup fotoaparatu";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Čeka za plaćanje";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Kategorija";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Poslovanja grada";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Poslovna adresa";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Poslovni poštanski broj";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Opis";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Došlo je do pogreške tijekom vašeg zahtjeva. Pokušajte ponovo kasnije.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Pogreška";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Mi ćemo pregledati te za dodatak na naš trgovački direktorij.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "Hvala!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Popis datoteka";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Idite na postavke privatnosti i omogućavanje usluga lokacije za Blockchain trgovac.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Mjesto usluge invalidima";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Pronalaženje";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Molimo pokušajte ponovno";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Pogreške pronalaženje lokacije";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Popis datoteka potrebno osigurati naziv tvrtke, adresa, grad, poštanski broj, telefon, web url i opis.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Nedostaju podaci";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Naziv tvrtke";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Telefonski broj nije prepoznata kao broj.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Neispravan broj telefona";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Abecednim";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Dodano";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Nedavno dodan transakcije";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Redoslijed sortiranja stavki";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telefon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Unesena adresa nije valjana";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Web-mjesto nije valjano";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Adresa";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Web-mjesto";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "pokušaj ponovo";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Naziv tvrtke";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Valuta";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Ponovno postavljanje Pin";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Postavi Pin";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Novčanik adresa";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Potrebni su ime, valjana novčanik adresa i valute.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minuta";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "sekundi";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ prije";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Koristite trenutne lokacije";
+
+/* (No Commment) */
+"welcome.hi" = "Bok!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Idemo!";
+
+/* (No Commment) */
+"welcome.setup" = "Dodirnite gumb da biste postavili račun trgovca!";
+

@@ -1,0 +1,304 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"action.add" = "Lägg till";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"action.charge" = "Avgift";
+
+/* (No Commment) */
+"action.enter_amount" = "Ange belopp";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Inst. artiklar";
+
+/* No comment provided by engineer. */
+"action.save" = "Spara";
+
+/* No comment provided by engineer. */
+"action.search" = "Sök";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Kategori";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Valuta";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Sorteringsordning för objekt";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Namn saknas";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Objektet kräver ett namn.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Saknas pris";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Objektet kräver ett pris.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Ogiltig pris";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Priset måste vara större än 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "Okej";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Oops";
+
+/* No comment provided by engineer. */
+"general.done" = "Gjort";
+
+/* No comment provided by engineer. */
+"general.save" = "Sparade";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Anpassade belopp";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Inga objekt";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu element)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu artiklar)";
+
+/* (No Commment) */
+"locations" = "Cafe/dricka/äta/spendera";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "E-post stöds inte";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Denna enhet stöder inte skicka ett mail.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Fel vid sändning av e-post.  Kontrollera din e-post och skicka igen.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Hej";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Ogiltig e-postadress";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Skriv in en giltig emailadress.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Här är ditt kvitto för din %@ på %@ på %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Kvitto från %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Tack för att använda Blockchain köpman!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Inst. artiklar";
+
+/* (No Commment) */
+"navigation.login" = "Logga in";
+
+/* (No Commment) */
+"navigation.logout" = "Logga ut";
+
+/* No comment provided by engineer. */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Pris & Nyheter";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Inställningar";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transaktioner";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Vi stötte på en nätverk fråga.  Försök igen.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Nätverksfel";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Handelsfartyg Post fel";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Ange nytt lösenord";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Ange ditt lösenord";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Lösenord felaktigt";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Ange ditt lösenord igen";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Passcode kontrollen misslyckades";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Återställa PIN-koden";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Ställ in pinkodsskydd";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Önskade %@, mottagna %@ BTC. QR bild har ändrats för att återspegla förfallet belopp.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Otillräcklig betalning";
+
+"qr.overpaid.title" = "Överskjutande transaktion";
+
+"qr.overpaid.message" = "Belopp som erhållits (%@ BTC) större än begärt belopp (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Gå till inställningar och aktivera kameraåtkomst för Blockchain köpman.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Aktivera kameraåtkomst";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Väntar på betalning";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Kategori";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Affärsstad";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "För företag";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Business postnummer";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Beskrivning";
+
+/* (No Commment) */
+"setting.directory_listing.title" = "Kataloglista";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Gå till sekretessinställningarna och aktivera platstjänster för Blockchain köpman.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Plats tjänster funktionshindrade";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Att lokalisera";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Behaga försök igen";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Att hitta plats";
+
+/* (No Commment) */
+"setting.merchant_listing.value_error.detail" = "Kataloglista måste du ange ett företagsnamn, adress, ort, postnummer, telefonnummer, webbadress och en beskrivning.";
+
+/* (No Commment) */
+"setting.merchant_listing.value_error.title" = "Information saknas";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Firma";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Telefonnumret inte kan identifieras som ett nummer.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Ogiltigt telefonnummer";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Alfabetisk";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Inkom datum";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Har nyligen lagt till transaktionen";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Sorteringsordning för objekt";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telefon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Den adress som angetts är inte giltigt";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Ogiltig webbplats";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Adress";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Hemsida";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "Försök igen";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Firma";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Valuta";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Återställa PIN-koden";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Ställ in pinkodsskydd";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Plånbok adress";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Firma, giltig plånbok adress och valuta krävs.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minuter";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "sekunder";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ sedan";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Använda aktuell plats";
+
+/* (No Commment) */
+"welcome.hi" = "Hej!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Lets Go!";
+
+/* (No Commment) */
+"welcome.setup" = "Tryck på knappen för att ställa in ditt säljarkonto!";
+

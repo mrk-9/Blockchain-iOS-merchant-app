@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Hủy bỏ";
+
+/* No comment provided by engineer. */
+"action.add" = "Thêm";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Hủy bỏ";
+
+/* No comment provided by engineer. */
+"action.charge" = "Phí";
+
+/* (No Commment) */
+"action.enter_amount" = "Nhập số tiền";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Thiết lập mục";
+
+/* No comment provided by engineer. */
+"action.save" = "Tiết kiệm";
+
+/* No comment provided by engineer. */
+"action.search" = "Tìm";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Thể loại";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Thu";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Thứ tự sắp xếp mục";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Thiếu tên";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Mục yêu cầu một tên.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Bảng giá";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Mục yêu cầu một mức giá.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Giá không hợp lệ";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Giá trị giá phải lớn hơn 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "Ok";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Thu";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "URL cơ sở";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Gỡ lỗi";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Thương mại URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Thiết lập lại";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Giao dịch URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Rất tiếc";
+
+/* No comment provided by engineer. */
+"general.done" = "Thực hiện";
+
+/* No comment provided by engineer. */
+"general.save" = "Lưu";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Số tiền tùy chỉnh";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Không có khoản mục";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu mục)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu mục)";
+
+/* (No Commment) */
+"locations" = "Quán cà phê/uống rượu/ăn/chi tiêu";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "Thư điện tử không được hỗ trợ";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Thiết bị này không hỗ trợ việc gửi một email.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Lỗi gửi Email.  Hãy kiểm tra email của bạn và gửi một lần nữa.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Chào bạn";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Email không hợp lệ";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Vui lòng nhập một địa chỉ email hợp lệ.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Đây là biên nhận của bạn cho của bạn %@ tại %@ ngày %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Nhận từ %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Cảm ơn bạn đã sử dụng Blockchain thương gia!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Thiết lập mục";
+
+/* (No Commment) */
+"navigation.login" = "Đăng nhập";
+
+/* (No Commment) */
+"navigation.logout" = "Đăng xuất";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Giá & tin tức";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Cài đặt";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Giao dịch";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Chúng tôi gặp phải một vấn đề mạng.  Xin vui lòng thử lại.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Lỗi mạng";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Thương gia bài thất bại";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Nhập mã truyền mới";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Nhập mã khóa của bạn";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Mật mã không chính xác";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Nhập lại mật mã của bạn";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Mã xác nhận không thành công";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Đặt lại mã Pin";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Đặt Pin";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Yêu cầu %@, nhận được %@ BTC. QR hình ảnh đã được thay đổi để phản ánh số tiền phải trả.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Không đủ thanh toán";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Số tiền nhận được (%@ BTC) lớn hơn số tiền yêu cầu (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Thừa giao dịch";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Đi để cài đặt và kích hoạt tính năng Camera truy cập cho thương gia Blockchain.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Cho phép truy nhập máy ảnh";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Chờ đợi cho thanh toán";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Thể loại";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Thành phố kinh doanh";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Địa chỉ doanh nghiệp";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Kinh doanh Zipcode";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Thu";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Mô tả";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Lỗi xuất hiện khi có yêu cầu của bạn. Xin vui lòng thử lại sau.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Lỗi";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Chúng tôi sẽ xem xét bạn bổ sung vào thư mục thương mại của chúng tôi.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "Cảm ơn!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Danh sách thư mục";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Đi đến cài đặt bảo mật và bật các vị trí dịch vụ thương gia Blockchain.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Vị trí dịch vụ Khuyết tật";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Vị trí";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Xin vui lòng thử lại";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Lỗi tìm kiếm vị trí";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Danh sách thư mục yêu cầu bạn cung cấp một tên doanh nghiệp, địa chỉ, thành phố, zipcode, điện thoại, web url và mô tả.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Thiếu thông tin";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Tên doanh nghiệp";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Số điện thoại không được công nhận như một số.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Số điện thoại không hợp lệ";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Bảng chữ cái";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Ngày thêm vào";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Mới thêm vào giao dịch";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Thứ tự sắp xếp mục";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Điện thoại";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Địa chỉ được nhập là không hợp lệ";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Trang web không hợp lệ";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Địa chỉ";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Trang web";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "Thử lại";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Tên doanh nghiệp";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Thu";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Đặt lại mã Pin";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Đặt Pin";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Ví địa chỉ";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Tên doanh nghiệp, địa chỉ hợp lệ ví và thu được yêu cầu.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "phút";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "giây";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ trước";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Sử dụng vị trí hiện tại";
+
+/* (No Commment) */
+"welcome.hi" = "Chào bạn!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Cho phép đi!";
+
+/* (No Commment) */
+"welcome.setup" = "Bấm vào nút để thiết lập tài khoản thương gia của bạn!";
+

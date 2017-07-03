@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "キャンセル";
+
+/* No comment provided by engineer. */
+"action.add" = "追加";
+
+/* No comment provided by engineer. */
+"action.cancel" = "キャンセル";
+
+/* No comment provided by engineer. */
+"action.charge" = "料金";
+
+/* (No Commment) */
+"action.enter_amount" = "金額を入力します。";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "品目の設定";
+
+/* No comment provided by engineer. */
+"action.save" = "保存";
+
+/* No comment provided by engineer. */
+"action.search" = "検索";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "カテゴリ";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "通貨";
+
+/* (No Commment) */
+"action_picker.sort_order" = "アイテムの並べ替え順序";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "名がありません。";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "項目には、名前が必要です。";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "価格がありません。";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "項目には、価格が必要です。";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "価格が無効です。";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "価格の値は 0 より大きくなければなりません";
+
+/* No comment provided by engineer. */
+"alert.ok" = "わかりました";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "通貨";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "ベース URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "デバッグ";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "商人の URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "リセット";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "トランザクション URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "おっと";
+
+/* No comment provided by engineer. */
+"general.done" = "行われます";
+
+/* No comment provided by engineer. */
+"general.save" = "保存";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "カスタム金額";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "アイテムはありません。";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu の項目)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu 件)";
+
+/* (No Commment) */
+"locations" = "カフェ/飲む/食べる/を使う";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "メールはサポートされていません";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "このデバイスでは、電子メールを送信することはできません。";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "メールを送信中にエラー。 あなたのメール アドレスを確認して再度送信してください。";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "こんにちは";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "無効な e メール";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "有効なメール アドレスを入力してください。";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "ここでは %@ の %@ であなたの %@ の領収書です。";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "%@ からの領収書します。";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Blockchain 商人を使用していただきありがとうございます!";
+
+/* (No Commment) */
+"navigation.item_setup" = "品目の設定";
+
+/* (No Commment) */
+"navigation.login" = "ログイン";
+
+/* (No Commment) */
+"navigation.logout" = "ログアウト";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "価格 & ニュース";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "設定";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "トランザクション";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "ネットワークの問題が発生しました。 もう一度やり直してください。";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "ネットワーク エラー";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "商人 Post 障害";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "新しいパスコードを入力してください。";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "パスコードを入力します。";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "不正なパスコード";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "パスコードを再入力します。";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "パスコード検証に失敗しました";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Pin をリセットします。";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "設定ピン";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "%@、受信 %@ BTC を要求されました。QR 画像は、支払金額を反映するために変わりました。";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "不十分な支払";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "量受けた (%@ BTC) 要求された量 (%@ BTC) より大きい";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "過払いトランザクション";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Blockchain 商人の設定とカメラ アクセスの有効化に移動します。";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "カメラへのアクセスを有効にします。";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "支払いを待っています。";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "カテゴリ";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "ビジネス街";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "ビジネス アドレス";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "ビジネス郵便番号";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "通貨";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "説明";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "あなたの要求中にエラーが発生しました。後でもう一度試してください。";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "エラー";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "私達の商人のディレクトリには、追加するを確認します。";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "ありがとう!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "ディレクトリ一覧";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "あなたのプライバシー設定に移動し、Blockchain の商人の位置情報サービスを有効にします。";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "ロケーション サービスを無効化";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "検索";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "もう一度やり直してください。";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "エラー発見の場所";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "ディレクトリ一覧では、ビジネスの名前、アドレス、都市、郵便番号、電話、web url、および説明を提供する必要があります。";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "不足している情報";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "ビジネス名";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "電話番号は数値として認識されません。";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "無効な電話番号";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "アルファベット順";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "追加された日付";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "最近トランザクションに追加";
+
+/* (No Commment) */
+"setting.sort_order.title" = "アイテムの並べ替え順序";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "電話";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "入力されたアドレスは有効ではないです。";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "無効なサイト";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "アドレス";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "ウェブサイト";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "もう一度やり直してください";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "ビジネス名";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "通貨";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Pin をリセットします。";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "設定ピン";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "財布アドレス";
+
+/* No comment provided by engineer. */
+"signup.warning" = "ビジネスの名前、有効な財布のアドレス、および通貨が必要です。";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "分";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "秒";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "前 %.0f %@";
+
+/* No comment provided by engineer. */
+"user_current_location" = "現在位置を使う";
+
+/* (No Commment) */
+"welcome.hi" = "こんにちは！";
+
+/* (No Commment) */
+"welcome.lets_go" = "行くことができます!";
+
+/* (No Commment) */
+"welcome.setup" = "あなたの商人のアカウントを設定するボタンをタップ!";
+

@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"action.add" = "Añadir";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"action.charge" = "Carga";
+
+/* (No Commment) */
+"action.enter_amount" = "Ingrese el monto";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Elemento de configuración";
+
+/* No comment provided by engineer. */
+"action.save" = "Guardar";
+
+/* No comment provided by engineer. */
+"action.search" = "Búsqueda de";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Categoría";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Moneda";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Elemento de ordenación";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Falta nombre";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Elemento requiere un nombre.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Precio que falta";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Elemento requiere un precio.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Precio no válido";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Valor del precio debe ser mayor que 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "Vale";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Moneda";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "URL base";
+
+/* No comment provided by engineer. */
+"debug.debug" = "De depuración";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "ENLACE mercantil";
+
+/* No comment provided by engineer. */
+"debug.reset" = "RESET";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "URL de la transacción";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "URL de WebSocket";
+
+/* No comment provided by engineer. */
+"general.NA" = "N / A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "¡ Uy";
+
+/* No comment provided by engineer. */
+"general.done" = "Hecho";
+
+/* No comment provided by engineer. */
+"general.save" = "Guardado";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Medida cantidad";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "No hay artículos";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(artículo%lu)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu artículos)";
+
+/* (No Commment) */
+"locations" = "Cafe/beber/comer/pasar";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "Correo electrónico no admitida";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Este dispositivo no es compatible con correo electrónico.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Error al enviar correo electrónico.  Por favor revise su correo electrónico y envíe de nuevo.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Hola";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Correo electrónico no válida";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Introduzca una dirección válida de correo electrónico.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Aquí está tu recibo para su %@ en %@ en %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Recibo de %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Gracias por usar Blockchain comerciante!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Elemento de configuración";
+
+/* (No Commment) */
+"navigation.login" = "Inicio de sesión";
+
+/* (No Commment) */
+"navigation.logout" = "Cierre de sesión";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Precio & noticias";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Configuración";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transacciones";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Nos encontramos con un problema de red.  Por favor, inténtelo de nuevo.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Error de red";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Falta Post mercantil";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Ingrese código de acceso nuevo";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Ingrese su código de acceso";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Código de acceso incorrecto";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Vuelva a introducir su código de acceso";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Validación de clave de acceso no se pudo";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Pin de RESET";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Pin set";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "%@ solicitado, recibido %@ BTC. Imagen de QR se ha cambiado para reflejar el monto.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Pago insuficiente";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Cantidad recibida (%@ BTC) mayor monto solicitado (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Transacciones pagado";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Vaya a configuración y activar cámara acceso para comerciante de Blockchain.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Permitir el acceso de la cámara";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "A la espera de pago";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Categoría";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Ciudad de negocios";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Dirección de negocios";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Código postal de la empresa";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Moneda";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Descripción";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Se ha producido un error durante su solicitud. Por favor Inténtalo más tarde.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Error";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Vamos a revisar le para incorporación a nuestro directorio comercial.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "¡ Gracias!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Listado en el directorio";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Ir a la configuración de privacidad y servicios de ubicación a Blockchain mercader.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Ubicación servicios discapacitados";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Localización de";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Por favor, inténtelo de nuevo";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Error encontrar ubicación";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Listado en el directorio requiere que proporcione un nombre de empresa, dirección, ciudad, código postal, teléfono, enlace web y una descripción.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Información que falta";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Nombre del negocio";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "El número de teléfono no se reconoce como un número.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Número de teléfono no válido";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Por orden alfabético";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Fecha agregada";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Agregado recientemente a transacción";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Elemento de ordenación";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Teléfono";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "La dirección introducida no es válida";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Sitio web no es válido";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Dirección";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Sitio web";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "Vuelve a intentarlo";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Nombre del negocio";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Moneda";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Pin de RESET";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Pin set";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Dirección de cartera";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Nombre del negocio, dirección de carpeta válida y moneda son necesarios.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minutos";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "segundos";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ hace";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Ubicación actual del utilización";
+
+/* (No Commment) */
+"welcome.hi" = "¡ Hola!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Lets Go!";
+
+/* (No Commment) */
+"welcome.setup" = "Pulse el botón para configurar su cuenta de comerciante!";
+

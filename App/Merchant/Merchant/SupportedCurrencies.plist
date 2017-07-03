@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>BTC</string>
+	<string>USD</string>
+	<string>JPY</string>
+	<string>CNY</string>
+	<string>SGD</string>
+	<string>HKD</string>
+	<string>CAD</string>
+	<string>NZD</string>
+	<string>AUD</string>
+	<string>CLP</string>
+	<string>GBP</string>
+	<string>DKK</string>
+	<string>SEK</string>
+	<string>ISK</string>
+	<string>CHF</string>
+	<string>BRL</string>
+	<string>EUR</string>
+	<string>RUB</string>
+	<string>PLN</string>
+	<string>THB</string>
+	<string>KRW</string>
+	<string>TWD</string>
+</array>
+</plist>

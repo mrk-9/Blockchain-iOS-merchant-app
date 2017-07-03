@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Cancel·la";
+
+/* No comment provided by engineer. */
+"action.add" = "Afegir";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Cancel·la";
+
+/* No comment provided by engineer. */
+"action.charge" = "Càrrega";
+
+/* (No Commment) */
+"action.enter_amount" = "Introdueix la quantitat";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Organització de l'element";
+
+/* No comment provided by engineer. */
+"action.save" = "Desa";
+
+/* No comment provided by engineer. */
+"action.search" = "Cerca";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Categoria";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Moneda";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Element d'ordenació";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Falta el nom";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Element requereix un nom.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Preu que falta";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Element requereix un preu.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Preus no vàlid";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Preu valor ha de ser major que 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "Correcte";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Moneda";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Base URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Depuració";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Mercant URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Restablir";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Transacció URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "Websocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "UI";
+
+/* No comment provided by engineer. */
+"general.done" = "Fet";
+
+/* No comment provided by engineer. */
+"general.save" = "Salvat";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Quantitat de costum";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Cap element";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(element%lu)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(elements de%lu)";
+
+/* (No Commment) */
+"locations" = "Cafeteria/beguda/menjar/passar";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "Correu electrònic no admet";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Aquest dispositiu no suporta enviant un correu electrònic.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Enviament d'E-mail d'error.  Si us plau revisa el teu email i enviar una altra vegada.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Hola";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Adreça electrònica no vàlida";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Introduïu una adreça electrònica vàlida.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Heus aquí el teu rebut pel seu %@ a %@ a %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Rebut de %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Gràcies per utilitzar Blockchain comerciant!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Organització de l'element";
+
+/* (No Commment) */
+"navigation.login" = "Connecti's";
+
+/* (No Commment) */
+"navigation.logout" = "Logout";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Preu i notícies";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Configuració";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transaccions";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Hem trobat un assumpte de connexió de xarxes.  Torneu-ho a provar.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Error de xarxa";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Mercant Post fracàs";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Introduïu el nou codi d'accés";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Ingressar al seu passcode";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Passcode incorrecta";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Tornar a entrar al seu passcode";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Passcode validació fracassada";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Reinicialització clavar";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Conjunt de Pin";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "%@ sol·licitada, rebut %@ BTC. Imatge de QR s'ha canviat per reflectir la quantitat deguda.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Pagament insuficient";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Import (%@ BTC) major que la quantitat sol • licitada (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Operació sobrepagats";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Aneu a configuració i permetre accés de càmera per Blockchain Mercader.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Permetre l'accés de càmera";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Esperant el pagament";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Categoria";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Ciutat de negocis";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Domicili social";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "CodigoPostal negoci";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Moneda";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Descripció";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "S'ha produït un error durant la seva petició. Intenteu-ho més tard.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Error";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Revisarem vostè per addició al nostre directori mercant.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "Gràcies!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Llista de directoris";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Anar a la configuració de privadesa i permetre serveis d'ubicació per Blockchain Mercader.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Ubicació serveis minusvàlids";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Localització";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Intenteu-ho novament";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Localització de descobriment d'error";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Llista de directoris requereix que faciliti un nom d'empresa, adreça, ciutat, zipcode, telèfon, web url i descripció.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Falta informació";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Nom comercial";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "El número de telèfon no és reconegut com un nombre.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Número de telèfon no és vàlid";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Ordre alfabètic";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Data afegida";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Afegit últimament a la transacció";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Element d'ordenació";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telèfon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "L'adreça introduït no és vàlid";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Lloc web no és vàlida";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Adreça";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Lloc web";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "Torneu";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Nom comercial";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Moneda";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Reinicialització clavar";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Conjunt de Pin";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Adreça de cartera";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Nom comercial adreça vàlida cartera i moneda són obligatoris.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minuts";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "segons";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ fa";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Utilitzar la localització actual";
+
+/* (No Commment) */
+"welcome.hi" = "Hola!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Deixa per anar!";
+
+/* (No Commment) */
+"welcome.setup" = "Premeu el botó per configurar el vostre compte de comerciant!";
+

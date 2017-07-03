@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Zrušit";
+
+/* No comment provided by engineer. */
+"action.add" = "Přidat";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Zrušit";
+
+/* No comment provided by engineer. */
+"action.charge" = "Poplatek";
+
+/* (No Commment) */
+"action.enter_amount" = "Zadejte částku";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Nastavení položky";
+
+/* No comment provided by engineer. */
+"action.save" = "Uložit";
+
+/* No comment provided by engineer. */
+"action.search" = "Hledat";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Kategorie";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Měna";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Pořadí řazení položek";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Chybějící jméno";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Položka vyžaduje název.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Chybějící cena";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Položka vyžaduje cenu.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Platná cena";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Cena hodnota musí být větší než 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "Ok";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Měna";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Základní adresa URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Ladění";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Obchodní adresa URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Obnovit";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Adresa URL transakce";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "WebSocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "NENÍ K DISPOZICI";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Chybička se vloudila";
+
+/* No comment provided by engineer. */
+"general.done" = "Hotovo";
+
+/* No comment provided by engineer. */
+"general.save" = "Uloženo";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Vlastní částka";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Žádné položky";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu položka)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu položky)";
+
+/* (No Commment) */
+"locations" = "Cafe/nápoje/jíst/utrácet";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "E-mail není podporován";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Toto zařízení nepodporuje odesílání e-mailu.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Chyba při odesílání zprávy.  Zkontrolujte svůj e-mail a odešlete znovu.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Ahoj";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Neplatný E-mail";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Zadejte prosím platnou e-mailovou adresu.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Tady je váš příjem pro %@ na %@ na %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Příjem od %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Díky za použití Blockchain obchodníka!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Nastavení položky";
+
+/* (No Commment) */
+"navigation.login" = "Přihlášení";
+
+/* (No Commment) */
+"navigation.logout" = "Odhlášení";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Cena a novinky";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Nastavení";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transakce";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Narazili jsme problémy se sítí.  Opakujte akci.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Chyba sítě";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Obchodní Post selhání";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Zadejte nové heslo";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Zadejte své heslo";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Chybné heslo";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Znovu zadat své heslo";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Ověření hesla se nezdařilo.";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Resetovat kód Pin";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Stavěcí kolík";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Požadované %@, obdržel %@ BTC. QR obrázek byl změněn na odrážet dlužné částky.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Neúplná platba";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Přijatá částka (%@ BTC) vyšší než požadovaná částka (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Přeplacení transakce";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Přejděte na nastavení a povolit přístup kamery pro obchodníka Blockchain.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Povolit přístup k fotoaparátu";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Čekání na platbu";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Kategorie";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Obchodní město";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Adresa do zaměstnání";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Obchodní PSČ";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Měna";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Popis";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Během vašeho požadavku došlo k chybě. Opakujte akci později.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Chyba";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Zkontrolujeme vám pro sčítání na naše obchodní adresář.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "Dík!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Výpis adresáře";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Přejděte k nastavení ochrany osobních údajů a umístění služby pro Blockchain obchodníka.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Umístění služby jsou zakázány";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Hledání";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Zkuste to prosím znovu";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Chyba při hledání umístění";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Výpis adresáře vyžaduje poskytnutí obchodní jméno, adresa, město, PSČ, telefon, webová adresa url a popis.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Chybějící informace";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Obchodní jméno";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Telefonní číslo není rozpoznán jako číslo.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Neplatné telefonní číslo";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Abecední";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Datum přidání";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Nedávno přidané k transakci";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Pořadí řazení položek";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telefon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Zadaná adresa není platná";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Neplatná webová";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Adresa";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Webové stránky";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "Zkuste to znovu";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Obchodní jméno";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Měna";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Resetovat kód Pin";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Stavěcí kolík";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Peněženka adresa";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Obchodní jméno, platnou adresu peněženku a měny jsou vyžadovány.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minuty";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "sekundy";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ před";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Použít aktuální umístění";
+
+/* (No Commment) */
+"welcome.hi" = "Ahoj!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Pojďme!";
+
+/* (No Commment) */
+"welcome.setup" = "Klepněte na tlačítko nastavení účtu obchodníka!";
+

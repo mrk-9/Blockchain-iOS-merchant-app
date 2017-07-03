@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Revocare";
+
+/* No comment provided by engineer. */
+"action.add" = "Adauga";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Revocare";
+
+/* No comment provided by engineer. */
+"action.charge" = "Taxa";
+
+/* (No Commment) */
+"action.enter_amount" = "Introduceţi cantitate";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Parametrizare articol";
+
+/* No comment provided by engineer. */
+"action.save" = "Salvaţi";
+
+/* No comment provided by engineer. */
+"action.search" = "Căutare";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Categorie";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Moneda";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Ordinea de sortare element";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Lipsește numele de";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Necesită un nume.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Lipsesc Pret";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Necesită un preţ.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Incorecte preţ";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Pret valoare trebuie să fie mai mare decât 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "ok";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Moneda";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "URL-ul de bază";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Depanare";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "URL-ul comerciant";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Resetare";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Tranzacţie URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "WebSocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/A";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Oops";
+
+/* No comment provided by engineer. */
+"general.done" = "Făcut";
+
+/* No comment provided by engineer. */
+"general.save" = "Salvate";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Valoarea particularizată";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Articole";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(din%lu)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu-elemente)";
+
+/* (No Commment) */
+"locations" = "Cafenea/bea/mânca/cheltui";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "E-mail nu acceptate";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Acest dispozitiv nu acceptă trimiterea unui e-mail.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Eroare la trimiterea E-mail.  Vă rugăm să verificaţi adresa de email si trimite din nou.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "salut";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "E-mail nevalid";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Vă rugăm să introduceţi o adresă de e-mail validă.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Aici este chitanţa pentru al tău %@ la %@ pe %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Primirea de %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Vă mulţumim pentru utilizarea Blockchain negustor!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Parametrizare articol";
+
+/* (No Commment) */
+"navigation.login" = "Autentificare";
+
+/* (No Commment) */
+"navigation.logout" = "Deconectare";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Pret & Stiri";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Setări";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Tranzacţii";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Am întâlnit o problemă de reţea.  Vă rugăm să încercaţi din nou.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Eroare de reţea";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Comerciant Post eşec";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Introduceþi noua parolã";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Introduceţi parola ta";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Parolă incorectă";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Reintroduceți parola ta";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Parolã validarea nu a reușit";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Resetaţi codul Pin";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Setare Pin";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "%@ solicitate, primite %@ BTC. Imaginea a fost schimbat pentru a reflecta suma datorată.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Plată insuficientă";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Suma primită (%@ BTC) mai mare decât suma solicitată (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Tranzacţie plătite în plus";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Du-te la setări şi Enable Camera acces pentru Blockchain comerciant.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Permite accesul aparat de fotografiat";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Aşteptare pentru plata";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Categorie";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Oraş de afaceri";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Adresa firmei";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Afaceri cod postal";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Moneda";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Descriere";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Eroare în timpul cererea dvs. Vă rugăm să încercaţi din nou mai târziu.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Eroare";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "Noi vă va revizui pentru adăugarea la directorul nostru de comerciant.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "mulţumesc!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Listare Director";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Du-te la setările de confidenţialitate şi activaţi serviciile de localizare pentru Blockchain comerciant.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Locaţia servicii cu handicap";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Localizarea";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Vă rugăm să încercaţi din nou";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Locaţie de constatare erori";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Directorul de listare a cere tu pentru a furniza un nume de afaceri, adresă, oraş, cod postal, telefon, URL-ul web şi o descriere.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Lipsesc informaţii";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Denumirea";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Numărul de telefon nu este recunoscut ca un număr.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Numarul de telefon incorect";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Ordine alfabetică";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Data adaugarii";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Adăugate recent la tranzacţie";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Ordinea de sortare element";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telefon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Adresa introdus nu este valid";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Site-ul de invalid";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Adresa";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Site-ul";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "încearcă din nou";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Denumirea";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Moneda";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Resetaţi codul Pin";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Setare Pin";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Adresa de portofel";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Denumirea, adresa valida portofel şi monedă sunt necesare.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minute";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "secunde";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ în urmă";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Utiliza locaţia curentă";
+
+/* (No Commment) */
+"welcome.hi" = "salut!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Să mergem!";
+
+/* (No Commment) */
+"welcome.setup" = "Apăsaţi butonul pentru a configura contul de comerciant!";
+

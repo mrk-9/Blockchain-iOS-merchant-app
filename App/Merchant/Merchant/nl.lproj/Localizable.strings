@@ -1,0 +1,336 @@
+/* No comment provided by engineer. */
+"%@" = "%@";
+
+/* (No Commment) */
+"Cancel" = "Annuleren";
+
+/* No comment provided by engineer. */
+"action.add" = "Toevoegen";
+
+/* No comment provided by engineer. */
+"action.cancel" = "Annuleren";
+
+/* No comment provided by engineer. */
+"action.charge" = "Gratis";
+
+/* (No Commment) */
+"action.enter_amount" = "Bedrag";
+
+/* No comment provided by engineer. */
+"action.item_setup" = "Artikelen instellen";
+
+/* No comment provided by engineer. */
+"action.save" = "Opslaan";
+
+/* No comment provided by engineer. */
+"action.search" = "Zoek";
+
+/* No comment provided by engineer. */
+"action_picker.categories" = "Categorie";
+
+/* No comment provided by engineer. */
+"action_picker.currency" = "Valuta";
+
+/* (No Commment) */
+"action_picker.sort_order" = "Volgorde van items sorteren";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name" = "Ontbrekende naam";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.name.detail" = "Object vereist een naam.";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price" = "Ontbrekende prijs";
+
+/* No comment provided by engineer. */
+"addItem.error.missing.price.detail" = "Object vereist een prijs.";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price" = "Ongeldige prijs";
+
+/* No comment provided by engineer. */
+"addItem.error.zero.price.detail" = "Prijs waarde moet groter zijn dan 0";
+
+/* No comment provided by engineer. */
+"alert.ok" = "OK";
+
+/* No comment provided by engineer. */
+"currency.picker.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"debug.base_url" = "Basis-URL";
+
+/* No comment provided by engineer. */
+"debug.debug" = "Debug";
+
+/* No comment provided by engineer. */
+"debug.merchant_directory_url" = "Merchant URL";
+
+/* No comment provided by engineer. */
+"debug.reset" = "Reset";
+
+/* No comment provided by engineer. */
+"debug.transaction_url" = "Transactie URL";
+
+/* No comment provided by engineer. */
+"debug.web_socket_url" = "WebSocket URL";
+
+/* No comment provided by engineer. */
+"general.NA" = "N/B";
+
+/* No comment provided by engineer. */
+"general.Oops" = "Oeps";
+
+/* No comment provided by engineer. */
+"general.done" = "Gedaan";
+
+/* No comment provided by engineer. */
+"general.save" = "Opgeslagen";
+
+/* No comment provided by engineer. */
+"item.list.custom" = "Aangepaste bedrag";
+
+/* No comment provided by engineer. */
+"item.list.noitems" = "Geen Items";
+
+/* No comment provided by engineer. */
+"item.list.number_of_item" = "(%lu-opdracht)";
+
+/* No comment provided by engineer. */
+"item.list.number_of_items" = "(%lu artikelen)";
+
+/* (No Commment) */
+"locations" = "Cafe/drank/eten/besteden";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported" = "E-mail niet ondersteund";
+
+/* No comment provided by engineer. */
+"merchant.email.error_not_supported_detail" = "Dit apparaat biedt geen ondersteuning voor het verzenden van een e-mail.";
+
+/* No comment provided by engineer. */
+"merchant.email.error_sending_message" = "Fout bij verzenden van E-mail.  Controleer uw e-mailadres en verzend opnieuw.";
+
+/* No comment provided by engineer. */
+"merchant.email.hi" = "Hallo";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid" = "Ongeldig e-mailadres";
+
+/* No comment provided by engineer. */
+"merchant.email.invalid.detail" = "Voer een geldig e-mailadres.";
+
+/* No comment provided by engineer. */
+"merchant.email.receiptInfo" = "Hier is uw aankoopbewijs van uw %@ op %@ op %@.";
+
+/* No comment provided by engineer. */
+"merchant.email.subject" = "Ontvangst van %@";
+
+/* No comment provided by engineer. */
+"merchant.email.thanks" = "Bedankt voor het gebruiken van Blockchain handelaar!";
+
+/* (No Commment) */
+"navigation.item_setup" = "Artikelen instellen";
+
+/* (No Commment) */
+"navigation.login" = "LogIn";
+
+/* (No Commment) */
+"navigation.logout" = "Logout";
+
+/* (No Commment) */
+"navigation.pos" = "POS";
+
+/* No comment provided by engineer. */
+"navigation.price_news" = "Prijs & nieuws";
+
+/* No comment provided by engineer. */
+"navigation.settings" = "Instellingen";
+
+/* No comment provided by engineer. */
+"navigation.transactions" = "Transacties";
+
+/* No comment provided by engineer. */
+"network.problem.detail" = "Er is een netwerk probleem opgetreden.  Probeer het opnieuw.";
+
+/* No comment provided by engineer. */
+"network.problem.title" = "Netwerkfout";
+
+/* No comment provided by engineer. */
+"networking.post_merchant.fail" = "Zakelijke Post mislukking";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_new_passcode" = "Voer nieuwe toegangscode";
+
+/* No comment provided by engineer. */
+"pin.entry.enter_passcode" = "Voer uw wachtwoord";
+
+/* No comment provided by engineer. */
+"pin.entry.password_incorrect" = "Onjuiste toegangscode";
+
+/* No comment provided by engineer. */
+"pin.entry.re_enter_passcode" = "Voer uw wachtwoord opnieuw in";
+
+/* No comment provided by engineer. */
+"pin.entry.validation_failed" = "Wachtwoord validatie mislukt";
+
+/* No comment provided by engineer. */
+"pin.info.reset_pin" = "Pincode opnieuw instellen";
+
+/* No comment provided by engineer. */
+"pin.info.set_pin" = "Set Pin";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.message" = "Gevraagde %@, ontvangen %@ BTC. QR beeld is veranderd om te reflecteren verschuldigde bedrag.";
+
+/* No comment provided by engineer. */
+"qr.insufficient.payment.title" = "Onvoldoende betaling";
+
+/* No comment provided by engineer. */
+"qr.overpaid.message" = "Ontvangen bedrag (%@ BTC) groter is dan het gevraagde bedrag (%@ BTC)";
+
+/* No comment provided by engineer. */
+"qr.overpaid.title" = "Teveel betaalde transactie";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.detail" = "Ga naar instellingen en Camera toegang voor Blockchain handelaar.";
+
+/* No comment provided by engineer. */
+"qr.scanning.permission.title" = "Camera toegang inschakelen";
+
+/* No comment provided by engineer. */
+"qr.trasnasction.info.waiting" = "Wachten op betaling";
+
+/* No comment provided by engineer. */
+"setting.business_address.category" = "Categorie";
+
+/* No comment provided by engineer. */
+"setting.business_address.city" = "Werkadres, plaats";
+
+/* No comment provided by engineer. */
+"setting.business_address.title" = "Zakelijk adres";
+
+/* No comment provided by engineer. */
+"setting.business_address.zipcode" = "Bedrijf postcode";
+
+/* No comment provided by engineer. */
+"setting.currency.title" = "Valuta";
+
+/* No comment provided by engineer. */
+"setting.description.title" = "Beschrijving";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.message" = "Er is een fout opgetreden tijdens uw aanvraag. Probeer het later nog eens.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.error.title" = "Fout";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.message" = "We bekijken u voor toevoeging aan onze merchant directory.";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.success.title" = "Bedankt!";
+
+/* No comment provided by engineer. */
+"setting.directory_listing.title" = "Directory Listing";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.detail" = "Ga naar uw Privacy-instellingen en locatieservices voor Blockchain handelaar in te schakelen.";
+
+/* No comment provided by engineer. */
+"setting.location_services.disabled.title" = "Locatie diensten gehandicapten";
+
+/* No comment provided by engineer. */
+"setting.location_services.locating" = "Zoeken";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.detail" = "Probeer het a.u.b. opnieuw";
+
+/* No comment provided by engineer. */
+"setting.location_services.trouble_finding.title" = "Fout vinden locatie";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.detail" = "Folderlijst moet u een bedrijfsnaam, adres, stad, postcode, telefoon, web-url en een beschrijving.";
+
+/* No comment provided by engineer. */
+"setting.merchant_listing.value_error.title" = "Ontbrekende informatie";
+
+/* No comment provided by engineer. */
+"setting.name.title" = "Bedrijfsnaam";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.detail" = "Het telefoonnummer wordt niet herkend als een getal.";
+
+/* No comment provided by engineer. */
+"setting.phone_validation_error.title" = "Ongeldig telefoonnummer";
+
+/* No comment provided by engineer. */
+"setting.sort_order.alphabetical.title" = "Alfabetische";
+
+/* No comment provided by engineer. */
+"setting.sort_order.creation.title" = "Datum toegevoegd";
+
+/* No comment provided by engineer. */
+"setting.sort_order.recent.title" = "Onlangs toegevoegd aan de transactie";
+
+/* (No Commment) */
+"setting.sort_order.title" = "Volgorde van items sorteren";
+
+/* No comment provided by engineer. */
+"setting.telephone.title" = "Telefoon";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.detail" = "Het ingevoerde adres is niet geldig";
+
+/* No comment provided by engineer. */
+"setting.url_validation_error.title" = "Ongeldig Website";
+
+/* No comment provided by engineer. */
+"setting.wallet_address.title" = "Adres";
+
+/* No comment provided by engineer. */
+"setting.website.title" = "Website";
+
+/* No comment provided by engineer. */
+"signup.alert.title" = "&Opnieuw";
+
+/* No comment provided by engineer. */
+"signup.business.name" = "Bedrijfsnaam";
+
+/* No comment provided by engineer. */
+"signup.currency.name" = "Valuta";
+
+/* No comment provided by engineer. */
+"signup.pin.reset" = "Pincode opnieuw instellen";
+
+/* No comment provided by engineer. */
+"signup.pin.set" = "Set Pin";
+
+/* No comment provided by engineer. */
+"signup.wallet.name" = "Portemonnee adres";
+
+/* No comment provided by engineer. */
+"signup.warning" = "Bedrijfsnaam, geldig portemonnee adres en valuta zijn vereist.";
+
+/* No comment provided by engineer. */
+"transaction.detail.minutes" = "minuten";
+
+/* No comment provided by engineer. */
+"transaction.detail.seconds" = "seconden";
+
+/* No comment provided by engineer. */
+"transaction.detail.time.ago" = "%.0f %@ geleden";
+
+/* No comment provided by engineer. */
+"user_current_location" = "Huidige locatie gebruiken";
+
+/* (No Commment) */
+"welcome.hi" = "Hallo!";
+
+/* (No Commment) */
+"welcome.lets_go" = "Laat gaan!";
+
+/* (No Commment) */
+"welcome.setup" = "Tik op de knop om te stellen uw merchant account!";
+
